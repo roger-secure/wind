@@ -3,10 +3,10 @@ import time
 
 while True:
     # Clone the repository
-    subprocess.run(["git", "clone", "https://github.com/roger-secure/wind.git"])
+    subprocess.run(["git", "clone", "https://github.com/roger-secure/wind2.git"])
 
     # Navigate into the cloned directory
-    repo_dir = "wind"
+    repo_dir = "wind2"
     subprocess.run(["cd", repo_dir], shell=True)
 
     # Add changes
