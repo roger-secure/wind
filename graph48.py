@@ -101,7 +101,7 @@ def generate_and_save_plot(data, save_dir):
         ax2 = ax1.twinx()
         color = 'tab:red'
         ax2.set_ylabel('Wind Direction', color=color)
-        ax2.plot(df['Time'], df['Wind Direction (degrees)'], marker='0', linestyle='', color=color)
+        ax2.plot(df['Time'], df['Wind Direction (degrees)'], marker='o', linestyle='', color=color)
         ax2.tick_params(axis='y', labelcolor=color)
 
         # Set x-axis limits
