@@ -90,7 +90,7 @@ def generate_and_save_plot(data, save_dir):
         color = 'tab:blue'
       
         latest_observation_time = max(df['Time']).strftime("%H:%M")
-        ax1.set_xlabel(f'Latest Observation at {latest_observation_time}: {wind_speeds_kt[-1]} knots, {data["stations"][-1]["wind_speed"]["direction"]}')
+        ax1.set_xlabel(f'Latest Observation at {latest_observation_time}: {wind_speeds_kt[-1]} knots, {data["stations"][-1]["wind_speed"]["direction"]}', fontsize=16)
 
 
         ax1.set_ylabel('Wind Speed (kt)', color=color, fontsize=16)
