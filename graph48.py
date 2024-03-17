@@ -100,7 +100,7 @@ def generate_and_save_plot(data, save_dir):
         # Create a secondary y-axis for wind direction
         ax2 = ax1.twinx()
         color = 'tab:red'
-        ax2.set_ylabel('Wind Direction', color=color)
+        ax2.set_ylabel('Wind Direction', color=color, fontsize=16)
         ax2.plot(df['Time'], df['Wind Direction (degrees)'], marker='.', linestyle='', color=color)
         ax2.tick_params(axis='y', labelcolor=color)
 
