@@ -93,7 +93,7 @@ def generate_and_save_plot(data, save_dir):
         ax1.set_xlabel(f'Latest Observation at {latest_observation_time}: {wind_speeds_kt[-1]} knots, {data["stations"][-1]["wind_speed"]["direction"]}')
 
 
-        ax1.set_ylabel('Wind Speed (kt)', color=color, fontsize=16)
+        ax1.set_ylabel('Wind Speed (kt)', color=color)
         ax1.plot(df['Time'], df['Wind Speed (kt)'], marker=None, linestyle='-', color=color)
         ax1.tick_params(axis='y', labelcolor=color)
 
@@ -101,7 +101,7 @@ def generate_and_save_plot(data, save_dir):
         ax2 = ax1.twinx()
         color = 'tab:red'
         ax2.set_ylabel('Wind Direction', color=color)
-        ax2.plot(df['Time'], df['Wind Direction (degrees)'], marker='.', linestyle='', color=color, fontsize=14)
+        ax2.plot(df['Time'], df['Wind Direction (degrees)'], marker='.', linestyle='', color=color)
         ax2.tick_params(axis='y', labelcolor=color)
 
         # Set x-axis limits
