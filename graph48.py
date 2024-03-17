@@ -94,7 +94,7 @@ def generate_and_save_plot(data, save_dir):
 
 
         ax1.set_ylabel('Wind Speed (kt)', color=color)
-        ax1.plot(df['Time'], df['Wind Speed (kt)'], marker='o', linestyle='-', color=color)
+        ax1.plot(df['Time'], df['Wind Speed (kt)'], marker=NONE, linestyle='-', color=color)
         ax1.tick_params(axis='y', labelcolor=color)
 
         # Create a secondary y-axis for wind direction
