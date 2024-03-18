@@ -655,6 +655,22 @@
         "direction": "NNE",
         "direction_degrees": "14"
       }
+    },
+    {
+      "local_time": "2024-03-19T07:00:00+11:00",
+      "description": "St Kilda Harbour RMYS",
+      "wind_gust": {
+        "speed_kmh": "24",
+        "speed_knots": "13",
+        "direction": "N",
+        "direction_degrees": "11"
+      },
+      "wind_speed": {
+        "speed_kmh": "17",
+        "speed_knots": "9",
+        "direction": "N",
+        "direction_degrees": "11"
+      }
     }
   ]
 }
