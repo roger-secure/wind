@@ -1433,4 +1433,164 @@
           <element units="km/h" type="gust_kmh">7</element>
           <element units="knots" type="wind_gust_spd">4</element>
           <element units="Celsius" type="air_temperature">15.0</element>
-          <element units="Celsius" t
+          <element units="Celsius" type="dew_point">10.0</element>
+          <element units="%" type="rel-humidity">72</element>
+          <element type="wind_dir">E</element>
+          <element units="deg" type="wind_dir_deg">95</element>
+          <element units="km/h" type="wind_spd_kmh">6</element>
+          <element units="knots" type="wind_spd">3</element>
+          <element start-time-local="2024-04-05T09:00:00+11:00" end-time-local="2024-04-05T16:22:00+11:00" duration="442" start-time-utc="2024-04-04T22:00:00+00:00" end-time-utc="2024-04-05T05:22:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-04-04T09:00:00+11:00" end-time-local="2024-04-05T09:00:00+11:00" duration="1440" start-time-utc="2024-04-03T22:00:00+00:00" end-time-utc="2024-04-04T22:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+          <element start-time-local="2024-04-05T06:00:00+11:00" end-time-local="2024-04-05T21:00:00+11:00" start-time-utc="2024-04-04T19:00:00+00:00" end-time-utc="2024-04-05T10:00:00+00:00" units="Celsius" type="maximum_air_temperature" instance="running" time-utc="2024-04-05T03:36:00+00:00" time-local="2024-04-05T14:36:00+11:00">16.1</element>
+          <element start-time-local="2024-04-04T18:00:00+11:00" end-time-local="2024-04-05T09:00:00+11:00" start-time-utc="2024-04-04T07:00:00+00:00" end-time-utc="2024-04-04T22:00:00+00:00" units="Celsius" type="minimum_air_temperature" instance="running" time-utc="2024-04-04T18:06:00+00:00" time-local="2024-04-05T05:06:00+11:00">11.6</element>
+          <element start-time-local="2024-04-05T00:00:00+11:00" end-time-local="2024-04-06T00:00:00+11:00" start-time-utc="2024-04-04T13:00:00+00:00" end-time-utc="2024-04-05T13:00:00+00:00" units="knots" type="maximum_gust_spd" instance="running" time-utc="2024-04-05T05:20:00+00:00" time-local="2024-04-05T16:20:00+11:00">4</element>
+          <element start-time-local="2024-04-05T00:00:00+11:00" end-time-local="2024-04-06T00:00:00+11:00" start-time-utc="2024-04-04T13:00:00+00:00" end-time-utc="2024-04-05T13:00:00+00:00" units="km/h" type="maximum_gust_kmh" instance="running" time-utc="2024-04-05T05:20:00+00:00" time-local="2024-04-05T16:20:00+11:00">7</element>
+          <element start-time-local="2024-04-05T00:00:00+11:00" end-time-local="2024-04-06T00:00:00+11:00" start-time-utc="2024-04-04T13:00:00+00:00" end-time-utc="2024-04-05T13:00:00+00:00" type="maximum_gust_dir" instance="running" time-utc="2024-04-05T05:20:00+00:00" time-local="2024-04-05T16:20:00+11:00">E</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="94888" bom-id="082076" tz="Australia/Melbourne" stn-name="DARTMOUTH RESERVOIR" stn-height="370.00" type="Non-AWS" lat="-36.5352" lon="147.4984" forecast-district-id="VIC_PW004" description="Lake Dartmouth">
+      <period index="0" time-utc="2024-04-03T22:00:00+00:00" time-local="2024-04-04T09:00:00+11:00" wind-src="mdf">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">9.8</element>
+          <element type="cloud">Clear</element>
+          <element units="m" type="cloud_base_m">2500</element>
+          <element type="cloud_oktas">0</element>
+          <element units="Celsius" type="delta_t">2.0</element>
+          <element units="Celsius" type="air_temperature">15.5</element>
+          <element units="Celsius" type="dew_point">11.9</element>
+          <element units="%" type="rel-humidity">79</element>
+          <element units="km" type="vis_km">40</element>
+          <element type="weather">Fine</element>
+          <element type="wind_dir">S</element>
+          <element units="deg" type="wind_dir_deg">180</element>
+          <element units="km/h" type="wind_spd_kmh">33</element>
+          <element units="knots" type="wind_spd">18</element>
+          <element start-time-local="2024-04-03T09:00:00+11:00" end-time-local="2024-04-04T09:00:00+11:00" duration="1440" start-time-utc="2024-04-02T22:00:00+00:00" end-time-utc="2024-04-03T22:00:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-04-03T09:00:00+11:00" end-time-local="2024-04-04T09:00:00+11:00" duration="1440" start-time-utc="2024-04-02T22:00:00+00:00" end-time-utc="2024-04-03T22:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="94894" bom-id="083024" tz="Australia/Melbourne" stn-name="MOUNT BULLER" stn-height="1707.00" type="AWS" lat="-37.1450" lon="146.4394" forecast-district-id="VIC_PW004" description="Mount Buller">
+      <period index="0" time-utc="2024-04-05T05:20:00+00:00" time-local="2024-04-05T16:20:00+11:00" wind-src="OMD">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">8.0</element>
+          <element units="Celsius" type="delta_t">2.6</element>
+          <element units="km/h" type="gust_kmh">17</element>
+          <element units="knots" type="wind_gust_spd">9</element>
+          <element units="Celsius" type="air_temperature">11.3</element>
+          <element units="Celsius" type="dew_point">6.2</element>
+          <element units="%" type="rel-humidity">71</element>
+          <element type="wind_dir">ESE</element>
+          <element units="deg" type="wind_dir_deg">118</element>
+          <element units="km/h" type="wind_spd_kmh">13</element>
+          <element units="knots" type="wind_spd">7</element>
+          <element start-time-local="2024-04-05T09:00:00+11:00" end-time-local="2024-04-05T16:22:00+11:00" duration="442" start-time-utc="2024-04-04T22:00:00+00:00" end-time-utc="2024-04-05T05:22:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-04-04T09:00:00+11:00" end-time-local="2024-04-05T09:00:00+11:00" duration="1440" start-time-utc="2024-04-03T22:00:00+00:00" end-time-utc="2024-04-04T22:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+          <element start-time-local="2024-04-05T06:00:00+11:00" end-time-local="2024-04-05T21:00:00+11:00" start-time-utc="2024-04-04T19:00:00+00:00" end-time-utc="2024-04-05T10:00:00+00:00" units="Celsius" type="maximum_air_temperature" instance="running" time-utc="2024-04-05T01:55:00+00:00" time-local="2024-04-05T12:55:00+11:00">12.4</element>
+          <element start-time-local="2024-04-04T18:00:00+11:00" end-time-local="2024-04-05T09:00:00+11:00" start-time-utc="2024-04-04T07:00:00+00:00" end-time-utc="2024-04-04T22:00:00+00:00" units="Celsius" type="minimum_air_temperature" instance="running" time-utc="2024-04-04T20:32:00+00:00" time-local="2024-04-05T07:32:00+11:00">6.1</element>
+          <element start-time-local="2024-04-05T00:00:00+11:00" end-time-local="2024-04-06T00:00:00+11:00" start-time-utc="2024-04-04T13:00:00+00:00" end-time-utc="2024-04-05T13:00:00+00:00" units="knots" type="maximum_gust_spd" instance="running" time-utc="2024-04-05T03:39:00+00:00" time-local="2024-04-05T14:39:00+11:00">19</element>
+          <element start-time-local="2024-04-05T00:00:00+11:00" end-time-local="2024-04-06T00:00:00+11:00" start-time-utc="2024-04-04T13:00:00+00:00" end-time-utc="2024-04-05T13:00:00+00:00" units="km/h" type="maximum_gust_kmh" instance="running" time-utc="2024-04-05T03:39:00+00:00" time-local="2024-04-05T14:39:00+11:00">35</element>
+          <element start-time-local="2024-04-05T00:00:00+11:00" end-time-local="2024-04-06T00:00:00+11:00" start-time-utc="2024-04-04T13:00:00+00:00" end-time-utc="2024-04-05T13:00:00+00:00" type="maximum_gust_dir" instance="running" time-utc="2024-04-05T03:39:00+00:00" time-local="2024-04-05T14:39:00+11:00">SE</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="95837" bom-id="082039" tz="Australia/Melbourne" stn-name="RUTHERGLEN RESEARCH" stn-height="175.00" type="AWS" lat="-36.1048" lon="146.5094" forecast-district-id="VIC_PW004" description="Rutherglen">
+      <period index="0" time-utc="2024-04-05T05:20:00+00:00" time-local="2024-04-05T16:20:00+11:00" wind-src="OMD">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">20.6</element>
+          <element units="Celsius" type="delta_t">7.1</element>
+          <element units="km/h" type="gust_kmh">17</element>
+          <element units="knots" type="wind_gust_spd">9</element>
+          <element units="Celsius" type="air_temperature">23.0</element>
+          <element units="Celsius" type="dew_point">10.1</element>
+          <element units="%" type="rel-humidity">44</element>
+          <element type="wind_dir">ESE</element>
+          <element units="deg" type="wind_dir_deg">110</element>
+          <element units="km/h" type="wind_spd_kmh">13</element>
+          <element units="knots" type="wind_spd">7</element>
+          <element start-time-local="2024-04-05T09:00:00+11:00" end-time-local="2024-04-05T16:22:00+11:00" duration="442" start-time-utc="2024-04-04T22:00:00+00:00" end-time-utc="2024-04-05T05:22:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-04-04T09:00:00+11:00" end-time-local="2024-04-05T09:00:00+11:00" duration="1440" start-time-utc="2024-04-03T22:00:00+00:00" end-time-utc="2024-04-04T22:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+          <element start-time-local="2024-04-05T06:00:00+11:00" end-time-local="2024-04-05T21:00:00+11:00" start-time-utc="2024-04-04T19:00:00+00:00" end-time-utc="2024-04-05T10:00:00+00:00" units="Celsius" type="maximum_air_temperature" instance="running" time-utc="2024-04-05T04:26:00+00:00" time-local="2024-04-05T15:26:00+11:00">24.1</element>
+          <element start-time-local="2024-04-04T18:00:00+11:00" end-time-local="2024-04-05T09:00:00+11:00" start-time-utc="2024-04-04T07:00:00+00:00" end-time-utc="2024-04-04T22:00:00+00:00" units="Celsius" type="minimum_air_temperature" instance="running" time-utc="2024-04-04T15:40:00+00:00" time-local="2024-04-05T02:40:00+11:00">10.7</element>
+          <element start-time-local="2024-04-05T00:00:00+11:00" end-time-local="2024-04-06T00:00:00+11:00" start-time-utc="2024-04-04T13:00:00+00:00" end-time-utc="2024-04-05T13:00:00+00:00" units="knots" type="maximum_gust_spd" instance="running" time-utc="2024-04-05T04:33:00+00:00" time-local="2024-04-05T15:33:00+11:00">15</element>
+          <element start-time-local="2024-04-05T00:00:00+11:00" end-time-local="2024-04-06T00:00:00+11:00" start-time-utc="2024-04-04T13:00:00+00:00" end-time-utc="2024-04-05T13:00:00+00:00" units="km/h" type="maximum_gust_kmh" instance="running" time-utc="2024-04-05T04:33:00+00:00" time-local="2024-04-05T15:33:00+11:00">28</element>
+          <element start-time-local="2024-04-05T00:00:00+11:00" end-time-local="2024-04-06T00:00:00+11:00" start-time-utc="2024-04-04T13:00:00+00:00" end-time-utc="2024-04-05T13:00:00+00:00" type="maximum_gust_dir" instance="running" time-utc="2024-04-05T04:33:00+00:00" time-local="2024-04-05T15:33:00+11:00">E</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="94889" bom-id="082138" tz="Australia/Melbourne" stn-name="WANGARATTA AERO" stn-height="152.60" type="AWS" lat="-36.4205" lon="146.3056" forecast-district-id="VIC_PW004" description="Wangaratta">
+      <period index="0" time-utc="2024-04-05T05:20:00+00:00" time-local="2024-04-05T16:20:00+11:00" wind-src="OMD">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">22.0</element>
+          <element type="cloud">Clear</element>
+          <element type="cloud_oktas">0</element>
+          <element units="Celsius" type="delta_t">6.8</element>
+          <element units="km/h" type="gust_kmh">15</element>
+          <element units="knots" type="wind_gust_spd">8</element>
+          <element units="Celsius" type="air_temperature">23.9</element>
+          <element units="Celsius" type="dew_point">11.9</element>
+          <element units="hPa" type="pres">1022.0</element>
+          <element units="hPa" type="msl_pres">1022.0</element>
+          <element units="hPa" type="qnh_pres">1022.1</element>
+          <element units="%" type="rel-humidity">47</element>
+          <element units="km" type="vis_km">35</element>
+          <element type="wind_dir">NE</element>
+          <element units="deg" type="wind_dir_deg">34</element>
+          <element units="km/h" type="wind_spd_kmh">13</element>
+          <element units="knots" type="wind_spd">7</element>
+          <element start-time-local="2024-04-05T09:00:00+11:00" end-time-local="2024-04-05T16:22:00+11:00" duration="442" start-time-utc="2024-04-04T22:00:00+00:00" end-time-utc="2024-04-05T05:22:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-04-04T09:00:00+11:00" end-time-local="2024-04-05T09:00:00+11:00" duration="1440" start-time-utc="2024-04-03T22:00:00+00:00" end-time-utc="2024-04-04T22:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+          <element start-time-local="2024-04-05T06:00:00+11:00" end-time-local="2024-04-05T21:00:00+11:00" start-time-utc="2024-04-04T19:00:00+00:00" end-time-utc="2024-04-05T10:00:00+00:00" units="Celsius" type="maximum_air_temperature" instance="running" time-utc="2024-04-05T04:52:00+00:00" time-local="2024-04-05T15:52:00+11:00">24.9</element>
+          <element start-time-local="2024-04-04T18:00:00+11:00" end-time-local="2024-04-05T09:00:00+11:00" start-time-utc="2024-04-04T07:00:00+00:00" end-time-utc="2024-04-04T22:00:00+00:00" units="Celsius" type="minimum_air_temperature" instance="running" time-utc="2024-04-04T20:44:00+00:00" time-local="2024-04-05T07:44:00+11:00">10.4</element>
+          <element start-time-local="2024-04-05T00:00:00+11:00" end-time-local="2024-04-06T00:00:00+11:00" start-time-utc="2024-04-04T13:00:00+00:00" end-time-utc="2024-04-05T13:00:00+00:00" units="knots" type="maximum_gust_spd" instance="running" time-utc="2024-04-05T05:03:00+00:00" time-local="2024-04-05T16:03:00+11:00">13</element>
+          <element start-time-local="2024-04-05T00:00:00+11:00" end-time-local="2024-04-06T00:00:00+11:00" start-time-utc="2024-04-04T13:00:00+00:00" end-time-utc="2024-04-05T13:00:00+00:00" units="km/h" type="maximum_gust_kmh" instance="running" time-utc="2024-04-05T05:03:00+00:00" time-local="2024-04-05T16:03:00+11:00">24</element>
+          <element start-time-local="2024-04-05T00:00:00+11:00" end-time-local="2024-04-06T00:00:00+11:00" start-time-utc="2024-04-04T13:00:00+00:00" end-time-utc="2024-04-05T13:00:00+00:00" type="maximum_gust_dir" instance="running" time-utc="2024-04-05T05:03:00+00:00" time-local="2024-04-05T16:03:00+11:00">ESE</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="94882" bom-id="088023" tz="Australia/Melbourne" stn-name="LAKE EILDON" stn-height="230.00" type="Non-AWS" lat="-37.2313" lon="145.9124" forecast-district-id="VIC_PW008" description="Lake Eildon">
+      <period index="0" time-utc="2024-04-04T22:00:00+00:00" time-local="2024-04-05T09:00:00+11:00" wind-src="mdf">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">9.1</element>
+          <element type="cloud">Partly cloudy</element>
+          <element type="cloud_oktas">3</element>
+          <element type="cloud_type_id">30</element>
+          <element units="Celsius" type="delta_t">0.3</element>
+          <element units="Celsius" type="air_temperature">9.4</element>
+          <element units="Celsius" type="dew_point">8.8</element>
+          <element units="%" type="rel-humidity">96</element>
+          <element units="km" type="vis_km">40</element>
+          <element type="weather">Fine</element>
+          <element type="wind_dir">CALM</element>
+          <element units="deg" type="wind_dir_deg">0</element>
+          <element units="km/h" type="wind_spd_kmh">0</element>
+          <element units="knots" type="wind_spd">0</element>
+          <element start-time-local="2024-04-04T09:00:00+11:00" end-time-local="2024-04-05T09:00:00+11:00" duration="1440" start-time-utc="2024-04-03T22:00:00+00:00" end-time-utc="2024-04-04T22:00:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-04-04T09:00:00+11:00" end-time-local="2024-04-05T09:00:00+11:00" duration="1440" start-time-utc="2024-04-03T22:00:00+00:00" end-time-utc="2024-04-04T22:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="94905" bom-id="083055" tz="Australia/Melbourne" stn-name="MOUNT HOTHAM AIRPORT" stn-height="1295.40" type="AWS" lat="-37.0491" lon="147.3347" forecast-district-id="VIC_PW004" description="Mount Hotham Airport">
+      <period index="0" time-utc="2024-04-05T05:20:00+00:00" time-local="2024-04-05T16:20:00+11:00" wind-src="OMD">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">8.7</element>
+          <element type="cloud">Partly cloudy</element>
+          <element type="cloud_oktas">3</element>
+          <element units="Celsius" type="delta_t">2.4</element>
+          <element units="km/h" type="gust_kmh">20</element>
+          <element units="knots" type="wind_gust_spd">11</element>
+          <element units="Celsius" type="air_temperature">12.4</element>
+          <element units="Celsius" type="dew_point">7.9</element>
+          <element units="hPa" type="pres">1025.2</element>
+          <element units="hPa" type="msl_pres">1025.2</element>
+          <element units="hPa" type="qnh_pres">1027.4</element>
+          <element units="%" type="rel-humidity">74</element>
+          <element units="km" type="vis_km">26</element>
+          <element type="wind_dir">ESE</element>
+          <element units="deg" type="wind_dir_deg">112</element>
+          <element units="km/h" type="wind_spd_kmh">17</element>
+          <element units="knots" type="wind_spd">9</element>
+          <element start-time-local="2024-04-05T09:00:00+11:00" end-time-local="2024-04-05T16:23:00+11:00" duration="443" start-time-utc="2024-04-04T22:00:00+00:00" end-time-utc="2024-04-05T05:23:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-04-04T09:00:00+11:00" end-time-local="2024-04-05T09:00:00+11:00" duration="1440" start-time-utc="2024-04-03T22:00:00+00:00" end-time-utc="2024-04-04T22:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+          <element start-time-local="2024-04-05T06:00:00+11:00" end-time-local="2024-04-05T21:00:00+11:00" start-time-utc="2024-04-04T19:00:00+00:00" end-time-utc="2024-04-05T10:00:00+00:00" units="Celsius" type="maximum_air_temperature" instance="running" time-utc="2024-04-05T01:21:00+00:00" time-local="2024-04-05T12:21:
