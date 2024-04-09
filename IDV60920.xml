@@ -1,0 +1,58 @@
+<?xml version="1.0"?>
+<product xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="v1.7.1" xsi:noNamespaceSchemaLocation="http://www.bom.gov.au/schema/v1.7/product.xsd">
+  <amoc>
+    <source>
+      <sender>Australian Government Bureau of Meteorology</sender>
+      <region>Victoria</region>
+      <office>VICRO</office>
+      <copyright>http://www.bom.gov.au/other/copyright.shtml</copyright>
+      <disclaimer>http://www.bom.gov.au/other/disclaimer.shtml</disclaimer>
+    </source>
+    <identifier>IDV60920</identifier>
+    <issue-time-utc>2024-04-09T19:51:06+00:00</issue-time-utc>
+    <issue-time-local tz="EST">2024-04-10T05:51:06+10:00</issue-time-local>
+    <sent-time>2024-04-09T19:52:48+00:00</sent-time>
+    <status>O</status>
+    <service>WSP</service>
+    <product-type>O</product-type>
+    <phase>NEW</phase>
+  </amoc>
+  <observations>
+    <station wmo-id="95936" bom-id="086338" tz="Australia/Melbourne" stn-name="MELBOURNE (OLYMPIC PARK)" stn-height="7.53" type="AWS" lat="-37.8255" lon="144.9816" forecast-district-id="VIC_PW007" description="Melbourne (Olympic Park)">
+      <period index="0" time-utc="2024-04-09T19:50:00+00:00" time-local="2024-04-10T05:50:00+10:00" wind-src="OMD">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">9.9</element>
+          <element units="Celsius" type="delta_t">2.3</element>
+          <element units="km/h" type="gust_kmh">15</element>
+          <element units="knots" type="wind_gust_spd">8</element>
+          <element units="Celsius" type="air_temperature">12.8</element>
+          <element units="Celsius" type="dew_point">8.1</element>
+          <element units="hPa" type="pres">1021.3</element>
+          <element units="hPa" type="msl_pres">1021.3</element>
+          <element units="hPa" type="qnh_pres">1021.3</element>
+          <element units="%" type="rel-humidity">73</element>
+          <element units="km" type="vis_km">61</element>
+          <element type="wind_dir">WNW</element>
+          <element units="deg" type="wind_dir_deg">285</element>
+          <element units="km/h" type="wind_spd_kmh">13</element>
+          <element units="knots" type="wind_spd">7</element>
+          <element start-time-local="2024-04-09T09:00:00+10:00" end-time-local="2024-04-10T05:52:00+10:00" duration="1252" start-time-utc="2024-04-08T23:00:00+00:00" end-time-utc="2024-04-09T19:52:00+00:00" units="mm" type="rainfall">2.4</element>
+          <element start-time-local="2024-04-08T09:00:00+10:00" end-time-local="2024-04-09T09:00:00+10:00" duration="1440" start-time-utc="2024-04-07T23:00:00+00:00" end-time-utc="2024-04-08T23:00:00+00:00" units="mm" type="rainfall_24hr">36.0</element>
+          <element start-time-local="2024-04-09T06:00:00+10:00" end-time-local="2024-04-09T21:00:00+10:00" start-time-utc="2024-04-08T20:00:00+00:00" end-time-utc="2024-04-09T11:00:00+00:00" units="Celsius" type="maximum_air_temperature" instance="running" time-utc="2024-04-09T04:25:00+00:00" time-local="2024-04-09T14:25:00+10:00">16.6</element>
+          <element start-time-local="2024-04-09T18:00:00+10:00" end-time-local="2024-04-10T09:00:00+10:00" start-time-utc="2024-04-09T08:00:00+00:00" end-time-utc="2024-04-09T23:00:00+00:00" units="Celsius" type="minimum_air_temperature" instance="running" time-utc="2024-04-09T19:15:00+00:00" time-local="2024-04-10T05:15:00+10:00">12.4</element>
+          <element start-time-local="2024-04-10T00:00:00+10:00" end-time-local="2024-04-11T00:00:00+10:00" start-time-utc="2024-04-09T14:00:00+00:00" end-time-utc="2024-04-10T14:00:00+00:00" units="knots" type="maximum_gust_spd" instance="running" time-utc="2024-04-09T16:40:00+00:00" time-local="2024-04-10T02:40:00+10:00">11</element>
+          <element start-time-local="2024-04-10T00:00:00+10:00" end-time-local="2024-04-11T00:00:00+10:00" start-time-utc="2024-04-09T14:00:00+00:00" end-time-utc="2024-04-10T14:00:00+00:00" units="km/h" type="maximum_gust_kmh" instance="running" time-utc="2024-04-09T16:40:00+00:00" time-local="2024-04-10T02:40:00+10:00">20</element>
+          <element start-time-local="2024-04-10T00:00:00+10:00" end-time-local="2024-04-11T00:00:00+10:00" start-time-utc="2024-04-09T14:00:00+00:00" end-time-utc="2024-04-10T14:00:00+00:00" type="maximum_gust_dir" instance="running" time-utc="2024-04-09T16:40:00+00:00" time-local="2024-04-10T02:40:00+10:00">W</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="94866" bom-id="086282" tz="Australia/Melbourne" stn-name="MELBOURNE AIRPORT" stn-height="113.40" type="AWS" lat="-37.6654" lon="144.8322" forecast-district-id="VIC_PW007" description="Melbourne Airport">
+      <period index="0" time-utc="2024-04-09T19:50:00+00:00" time-local="2024-04-10T05:50:00+10:00" wind-src="OMD">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">8.4</element>
+          <element type="cloud">Cloudy</element>
+          <element type="cloud_oktas">8</element>
+          <element units="Celsius" type="delta_t">1.8</element>
+          <element units="km/h" type="gust_kmh">17</element>
+          <element units="knots" type="wind_gust_spd">9</element>
+         
