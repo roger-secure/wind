@@ -2668,4 +2668,13 @@
         </level>
       </period>
     </station>
-    <station wmo-id="99822" bom-id="250139" tz="Australi
+    <station wmo-id="99822" bom-id="250139" tz="Australia/Melbourne" stn-name="GLENBURN (CFA)" stn-height="268.00" type="AWS" lat="-37.8191" lon="145.0113" forecast-district-id="VIC_FA001" description="Glenburn (CFA)">
+      <period index="0" time-utc="2024-04-09T02:20:00+00:00" time-local="2024-04-09T12:20:00+10:00">
+        <level index="0" type="surface">
+          <element units="mm" type="rain_hour">0.0</element>
+          <element units="mm" type="rain_ten">0.0</element>
+        </level>
+      </period>
+    </station>
+  </observations>
+</product>
