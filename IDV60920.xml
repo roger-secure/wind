@@ -2769,4 +2769,51 @@
           <element units="km/h" type="wind_spd_kmh">20</element>
           <element units="knots" type="wind_spd">11</element>
           <element start-time-local="2024-04-19T09:00:00+10:00" end-time-local="2024-04-19T18:10:00+10:00" duration="550" start-time-utc="2024-04-18T23:00:00+00:00" end-time-utc="2024-04-19T08:10:00+00:00" units="mm" type="rainfall">0.0</element>
-          <element start-time-local="2024-04-18T09:00:00+10:00" end-time-lo
+          <element start-time-local="2024-04-18T09:00:00+10:00" end-time-local="2024-04-19T09:00:00+10:00" duration="1440" start-time-utc="2024-04-17T23:00:00+00:00" end-time-utc="2024-04-18T23:00:00+00:00" units="mm" type="rainfall_24hr">0.4</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="99816" bom-id="250133" tz="Australia/Melbourne" stn-name="PORTABLE VIC AWS 4 (CFA)" stn-height="530.00" type="AWS" lat="-37.5778" lon="146.5761" forecast-district-id="VIC_FA001" description="Victoria Portable AWS D (CFA)">
+      <period index="0" time-utc="2024-04-19T08:10:00+00:00" time-local="2024-04-19T18:10:00+10:00" wind-src="metar_10">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">7.7</element>
+          <element units="Celsius" type="delta_t">0.1</element>
+          <element units="km/h" type="gust_kmh">15</element>
+          <element units="knots" type="wind_gust_spd">8</element>
+          <element units="Celsius" type="air_temperature">10.1</element>
+          <element units="Celsius" type="dew_point">10.0</element>
+          <element units="mm" type="rain_hour">0.4</element>
+          <element units="mm" type="rain_ten">0.0</element>
+          <element units="%" type="rel-humidity">99</element>
+          <element type="wind_dir">ESE</element>
+          <element units="deg" type="wind_dir_deg">120</element>
+          <element units="km/h" type="wind_spd_kmh">13</element>
+          <element units="knots" type="wind_spd">7</element>
+          <element start-time-local="2024-04-19T09:00:00+10:00" end-time-local="2024-04-19T18:10:00+10:00" duration="550" start-time-utc="2024-04-18T23:00:00+00:00" end-time-utc="2024-04-19T08:10:00+00:00" units="mm" type="rainfall">4.4</element>
+          <element start-time-local="2024-04-18T09:00:00+10:00" end-time-local="2024-04-19T09:00:00+10:00" duration="1440" start-time-utc="2024-04-17T23:00:00+00:00" end-time-utc="2024-04-18T23:00:00+00:00" units="mm" type="rainfall_24hr">2.4</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="99819" bom-id="250136" tz="Australia/Melbourne" stn-name="PORTABLE VIC AWS 7 (CFA)" stn-height="101.00" type="AWS" lat="-35.5916" lon="141.3144" forecast-district-id="VIC_FA001" description="Victoria Portable AWS G (CFA)">
+      <period index="0" time-utc="2024-04-19T08:00:00+00:00" time-local="2024-04-19T18:00:00+10:00" wind-src="metar_10">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">16.3</element>
+          <element units="Celsius" type="delta_t">5.5</element>
+          <element units="km/h" type="gust_kmh">0</element>
+          <element units="knots" type="wind_gust_spd">0</element>
+          <element units="Celsius" type="air_temperature">17.2</element>
+          <element units="Celsius" type="dew_point">5.9</element>
+          <element units="mm" type="rain_hour">0.0</element>
+          <element units="mm" type="rain_ten">0.0</element>
+          <element units="%" type="rel-humidity">47</element>
+          <element type="wind_dir">CALM</element>
+          <element units="deg" type="wind_dir_deg">300</element>
+          <element units="km/h" type="wind_spd_kmh">0</element>
+          <element units="knots" type="wind_spd">0</element>
+          <element start-time-local="2024-04-19T09:00:00+10:00" end-time-local="2024-04-19T18:00:00+10:00" duration="540" start-time-utc="2024-04-18T23:00:00+00:00" end-time-utc="2024-04-19T08:00:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-04-18T09:00:00+10:00" end-time-local="2024-04-19T09:00:00+10:00" duration="1440" start-time-utc="2024-04-17T23:00:00+00:00" end-time-utc="2024-04-18T23:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+        </level>
+      </period>
+    </station>
+  </observations>
+</product>
