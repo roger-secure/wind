@@ -2743,4 +2743,46 @@
       </period>
     </station>
     <station wmo-id="99816" bom-id="250133" tz="Australia/Melbourne" stn-name="PORTABLE VIC AWS 4 (CFA)" stn-height="530.00" type="AWS" lat="-37.5778" lon="146.5760" forecast-district-id="VIC_FA001" description="Victoria Portable AWS D (CFA)">
-      <period ind
+      <period index="0" time-utc="2024-05-01T16:30:00+00:00" time-local="2024-05-02T02:30:00+10:00" wind-src="metar_10">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">5.3</element>
+          <element units="Celsius" type="delta_t">0.1</element>
+          <element units="km/h" type="gust_kmh">4</element>
+          <element units="knots" type="wind_gust_spd">2</element>
+          <element units="Celsius" type="air_temperature">6.5</element>
+          <element units="Celsius" type="dew_point">6.3</element>
+          <element units="mm" type="rain_hour">0.0</element>
+          <element units="mm" type="rain_ten">0.0</element>
+          <element units="%" type="rel-humidity">99</element>
+          <element type="wind_dir">SW</element>
+          <element units="deg" type="wind_dir_deg">220</element>
+          <element units="km/h" type="wind_spd_kmh">2</element>
+          <element units="knots" type="wind_spd">1</element>
+          <element start-time-local="2024-05-01T09:00:00+10:00" end-time-local="2024-05-02T02:30:00+10:00" duration="1050" start-time-utc="2024-04-30T23:00:00+00:00" end-time-utc="2024-05-01T16:30:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-04-30T09:00:00+10:00" end-time-local="2024-05-01T09:00:00+10:00" duration="1440" start-time-utc="2024-04-29T23:00:00+00:00" end-time-utc="2024-04-30T23:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="99819" bom-id="250136" tz="Australia/Melbourne" stn-name="PORTABLE VIC AWS 7 (CFA)" stn-height="101.00" type="AWS" lat="-35.5916" lon="141.3144" forecast-district-id="VIC_FA001" description="Victoria Portable AWS G (CFA)">
+      <period index="0" time-utc="2024-05-01T16:30:00+00:00" time-local="2024-05-02T02:30:00+10:00" wind-src="metar_10">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">5.1</element>
+          <element units="Celsius" type="delta_t">0.8</element>
+          <element units="km/h" type="gust_kmh">0</element>
+          <element units="knots" type="wind_gust_spd">0</element>
+          <element units="Celsius" type="air_temperature">6.3</element>
+          <element units="Celsius" type="dew_point">4.5</element>
+          <element units="mm" type="rain_hour">0.0</element>
+          <element units="mm" type="rain_ten">0.0</element>
+          <element units="%" type="rel-humidity">88</element>
+          <element type="wind_dir">CALM</element>
+          <element units="deg" type="wind_dir_deg">10</element>
+          <element units="km/h" type="wind_spd_kmh">0</element>
+          <element units="knots" type="wind_spd">0</element>
+          <element start-time-local="2024-05-01T09:00:00+10:00" end-time-local="2024-05-02T02:30:00+10:00" duration="1050" start-time-utc="2024-04-30T23:00:00+00:00" end-time-utc="2024-05-01T16:30:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-04-30T09:00:00+10:00" end-time-local="2024-05-01T09:00:00+10:00" duration="1440" start-time-utc="2024-04-29T23:00:00+00:00" end-time-utc="2024-04-30T23:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+        </level>
+      </period>
+    </station>
+  </observations>
+</product>
