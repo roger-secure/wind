@@ -1876,4 +1876,276 @@
           <element units="Celsius" type="air_temperature">15.2</element>
           <element units="Celsius" type="dew_point">8.0</element>
           <element units="hPa" type="pres">1033.4</element>
-          <ele
+          <element units="hPa" type="msl_pres">1033.4</element>
+          <element units="hPa" type="qnh_pres">1033.4</element>
+          <element units="mm" type="rain_hour">0.0</element>
+          <element units="mm" type="rain_ten">0.0</element>
+          <element units="%" type="rel-humidity">62</element>
+          <element type="wind_dir">ENE</element>
+          <element units="deg" type="wind_dir_deg">74</element>
+          <element units="km/h" type="wind_spd_kmh">7</element>
+          <element units="knots" type="wind_spd">4</element>
+          <element start-time-local="2024-04-30T09:00:00+10:00" end-time-local="2024-05-01T08:30:00+10:00" duration="1410" start-time-utc="2024-04-29T23:00:00+00:00" end-time-utc="2024-04-30T22:30:00+00:00" units="mm" type="rainfall">0.0</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="94911" bom-id="085301" tz="Australia/Melbourne" stn-name="YANAKIE" stn-height="13.30" type="AWS" lat="-38.8051" lon="146.1936" forecast-district-id="VIC_PW006" description="Yanakie">
+      <period index="0" time-utc="2024-05-03T07:50:00+00:00" time-local="2024-05-03T17:50:00+10:00" wind-src="OMD">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">11.9</element>
+          <element units="Celsius" type="delta_t">1.2</element>
+          <element units="km/h" type="gust_kmh">13</element>
+          <element units="knots" type="wind_gust_spd">7</element>
+          <element units="Celsius" type="air_temperature">13.6</element>
+          <element units="Celsius" type="dew_point">11.3</element>
+          <element units="%" type="rel-humidity">86</element>
+          <element type="wind_dir">E</element>
+          <element units="deg" type="wind_dir_deg">87</element>
+          <element units="km/h" type="wind_spd_kmh">11</element>
+          <element units="knots" type="wind_spd">6</element>
+          <element start-time-local="2024-05-03T09:00:00+10:00" end-time-local="2024-05-03T17:52:00+10:00" duration="532" start-time-utc="2024-05-02T23:00:00+00:00" end-time-utc="2024-05-03T07:52:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-05-02T09:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" duration="1440" start-time-utc="2024-05-01T23:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="mm" type="rainfall_24hr">0.2</element>
+          <element start-time-local="2024-05-03T06:00:00+10:00" end-time-local="2024-05-03T21:00:00+10:00" start-time-utc="2024-05-02T20:00:00+00:00" end-time-utc="2024-05-03T11:00:00+00:00" units="Celsius" type="maximum_air_temperature" instance="running" time-utc="2024-05-03T03:23:00+00:00" time-local="2024-05-03T13:23:00+10:00">17.9</element>
+          <element start-time-local="2024-05-02T18:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" start-time-utc="2024-05-02T08:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="Celsius" type="minimum_air_temperature" instance="running" time-utc="2024-05-02T14:14:00+00:00" time-local="2024-05-03T00:14:00+10:00">6.4</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="knots" type="maximum_gust_spd" instance="running" time-utc="2024-05-03T03:51:00+00:00" time-local="2024-05-03T13:51:00+10:00">18</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="km/h" type="maximum_gust_kmh" instance="running" time-utc="2024-05-03T03:51:00+00:00" time-local="2024-05-03T13:51:00+10:00">33</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" type="maximum_gust_dir" instance="running" time-utc="2024-05-03T03:51:00+00:00" time-local="2024-05-03T13:51:00+10:00">E</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="95890" bom-id="085151" tz="Australia/Melbourne" stn-name="YARRAM AIRPORT" stn-height="17.90" type="AWS" lat="-38.5647" lon="146.7479" forecast-district-id="VIC_PW006" description="Yarram Airport">
+      <period index="0" time-utc="2024-05-03T07:50:00+00:00" time-local="2024-05-03T17:50:00+10:00" wind-src="OMD">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">12.3</element>
+          <element units="Celsius" type="delta_t">1.4</element>
+          <element units="km/h" type="gust_kmh">13</element>
+          <element units="knots" type="wind_gust_spd">7</element>
+          <element units="Celsius" type="air_temperature">13.7</element>
+          <element units="Celsius" type="dew_point">11.0</element>
+          <element units="hPa" type="pres">1029.4</element>
+          <element units="hPa" type="msl_pres">1029.4</element>
+          <element units="hPa" type="qnh_pres">1029.3</element>
+          <element units="%" type="rel-humidity">84</element>
+          <element type="wind_dir">E</element>
+          <element units="deg" type="wind_dir_deg">82</element>
+          <element units="km/h" type="wind_spd_kmh">9</element>
+          <element units="knots" type="wind_spd">5</element>
+          <element start-time-local="2024-05-03T09:00:00+10:00" end-time-local="2024-05-03T17:52:00+10:00" duration="532" start-time-utc="2024-05-02T23:00:00+00:00" end-time-utc="2024-05-03T07:52:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-05-02T09:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" duration="1440" start-time-utc="2024-05-01T23:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+          <element start-time-local="2024-05-03T06:00:00+10:00" end-time-local="2024-05-03T21:00:00+10:00" start-time-utc="2024-05-02T20:00:00+00:00" end-time-utc="2024-05-03T11:00:00+00:00" units="Celsius" type="maximum_air_temperature" instance="running" time-utc="2024-05-03T03:46:00+00:00" time-local="2024-05-03T13:46:00+10:00">17.4</element>
+          <element start-time-local="2024-05-02T18:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" start-time-utc="2024-05-02T08:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="Celsius" type="minimum_air_temperature" instance="running" time-utc="2024-05-02T18:13:00+00:00" time-local="2024-05-03T04:13:00+10:00">2.3</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="knots" type="maximum_gust_spd" instance="running" time-utc="2024-05-03T06:13:00+00:00" time-local="2024-05-03T16:13:00+10:00">15</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="km/h" type="maximum_gust_kmh" instance="running" time-utc="2024-05-03T06:13:00+00:00" time-local="2024-05-03T16:13:00+10:00">28</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" type="maximum_gust_dir" instance="running" time-utc="2024-05-03T06:13:00+00:00" time-local="2024-05-03T16:13:00+10:00">E</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="94852" bom-id="089002" tz="Australia/Melbourne" stn-name="BALLARAT AERODROME" stn-height="435.20" type="AWS" lat="-37.5127" lon="143.7911" forecast-district-id="VIC_PW007" description="Ballarat">
+      <period index="0" time-utc="2024-05-03T07:50:00+00:00" time-local="2024-05-03T17:50:00+10:00" wind-src="OMD">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">8.9</element>
+          <element type="cloud">Clear</element>
+          <element type="cloud_oktas">0</element>
+          <element units="Celsius" type="delta_t">2.3</element>
+          <element units="km/h" type="gust_kmh">20</element>
+          <element units="knots" type="wind_gust_spd">11</element>
+          <element units="Celsius" type="air_temperature">12.6</element>
+          <element units="Celsius" type="dew_point">8.1</element>
+          <element units="hPa" type="pres">1027.1</element>
+          <element units="hPa" type="msl_pres">1027.1</element>
+          <element units="hPa" type="qnh_pres">1026.7</element>
+          <element units="%" type="rel-humidity">74</element>
+          <element units="km" type="vis_km">38</element>
+          <element type="wind_dir">SE</element>
+          <element units="deg" type="wind_dir_deg">125</element>
+          <element units="km/h" type="wind_spd_kmh">17</element>
+          <element units="knots" type="wind_spd">9</element>
+          <element start-time-local="2024-05-03T09:00:00+10:00" end-time-local="2024-05-03T17:52:00+10:00" duration="532" start-time-utc="2024-05-02T23:00:00+00:00" end-time-utc="2024-05-03T07:52:00+00:00" units="mm" type="rainfall">0.2</element>
+          <element start-time-local="2024-05-02T09:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" duration="1440" start-time-utc="2024-05-01T23:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+          <element start-time-local="2024-05-03T06:00:00+10:00" end-time-local="2024-05-03T21:00:00+10:00" start-time-utc="2024-05-02T20:00:00+00:00" end-time-utc="2024-05-03T11:00:00+00:00" units="Celsius" type="maximum_air_temperature" instance="running" time-utc="2024-05-03T04:53:00+00:00" time-local="2024-05-03T14:53:00+10:00">18.3</element>
+          <element start-time-local="2024-05-02T18:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" start-time-utc="2024-05-02T08:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="Celsius" type="minimum_air_temperature" instance="running" time-utc="2024-05-02T21:20:00+00:00" time-local="2024-05-03T07:20:00+10:00">2.5</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="knots" type="maximum_gust_spd" instance="running" time-utc="2024-05-03T05:54:00+00:00" time-local="2024-05-03T15:54:00+10:00">14</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="km/h" type="maximum_gust_kmh" instance="running" time-utc="2024-05-03T05:54:00+00:00" time-local="2024-05-03T15:54:00+10:00">26</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" type="maximum_gust_dir" instance="running" time-utc="2024-05-03T05:54:00+00:00" time-local="2024-05-03T15:54:00+10:00">SE</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="94886" bom-id="085099" tz="Australia/Melbourne" stn-name="POUND CREEK" stn-height="3.00" type="AWS" lat="-38.6297" lon="145.8107" forecast-district-id="VIC_PW007" description="Pound Creek">
+      <period index="0" time-utc="2024-05-03T07:50:00+00:00" time-local="2024-05-03T17:50:00+10:00" wind-src="OMD">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">10.1</element>
+          <element units="Celsius" type="delta_t">1.2</element>
+          <element units="km/h" type="gust_kmh">20</element>
+          <element units="knots" type="wind_gust_spd">11</element>
+          <element units="Celsius" type="air_temperature">12.8</element>
+          <element units="Celsius" type="dew_point">10.5</element>
+          <element units="hPa" type="pres">1028.5</element>
+          <element units="hPa" type="msl_pres">1028.5</element>
+          <element units="%" type="rel-humidity">86</element>
+          <element type="wind_dir">ESE</element>
+          <element units="deg" type="wind_dir_deg">104</element>
+          <element units="km/h" type="wind_spd_kmh">15</element>
+          <element units="knots" type="wind_spd">8</element>
+          <element start-time-local="2024-05-03T09:00:00+10:00" end-time-local="2024-05-03T17:52:00+10:00" duration="532" start-time-utc="2024-05-02T23:00:00+00:00" end-time-utc="2024-05-03T07:52:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-05-02T09:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" duration="1440" start-time-utc="2024-05-01T23:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+          <element start-time-local="2024-05-03T06:00:00+10:00" end-time-local="2024-05-03T21:00:00+10:00" start-time-utc="2024-05-02T20:00:00+00:00" end-time-utc="2024-05-03T11:00:00+00:00" units="Celsius" type="maximum_air_temperature" instance="running" time-utc="2024-05-03T03:50:00+00:00" time-local="2024-05-03T13:50:00+10:00">18.3</element>
+          <element start-time-local="2024-05-02T18:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" start-time-utc="2024-05-02T08:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="Celsius" type="minimum_air_temperature" instance="running" time-utc="2024-05-02T20:44:00+00:00" time-local="2024-05-03T06:44:00+10:00">1.4</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="knots" type="maximum_gust_spd" instance="running" time-utc="2024-05-03T05:23:00+00:00" time-local="2024-05-03T15:23:00+10:00">19</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="km/h" type="maximum_gust_kmh" instance="running" time-utc="2024-05-03T05:23:00+00:00" time-local="2024-05-03T15:23:00+10:00">35</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" type="maximum_gust_dir" instance="running" time-utc="2024-05-03T05:23:00+00:00" time-local="2024-05-03T15:23:00+10:00">ESE</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="94859" bom-id="088051" tz="Australia/Melbourne" stn-name="REDESDALE" stn-height="290.00" type="AWS" lat="-37.0194" lon="144.5203" forecast-district-id="VIC_PW003" description="Redesdale">
+      <period index="0" time-utc="2024-05-03T07:50:00+00:00" time-local="2024-05-03T17:50:00+10:00" wind-src="OMD">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">12.0</element>
+          <element units="Celsius" type="delta_t">3.3</element>
+          <element units="km/h" type="gust_kmh">15</element>
+          <element units="knots" type="wind_gust_spd">8</element>
+          <element units="Celsius" type="air_temperature">14.2</element>
+          <element units="Celsius" type="dew_point">7.7</element>
+          <element units="%" type="rel-humidity">65</element>
+          <element type="wind_dir">SSE</element>
+          <element units="deg" type="wind_dir_deg">158</element>
+          <element units="km/h" type="wind_spd_kmh">9</element>
+          <element units="knots" type="wind_spd">5</element>
+          <element start-time-local="2024-05-03T09:00:00+10:00" end-time-local="2024-05-03T17:52:00+10:00" duration="532" start-time-utc="2024-05-02T23:00:00+00:00" end-time-utc="2024-05-03T07:52:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-05-03T06:00:00+10:00" end-time-local="2024-05-03T21:00:00+10:00" start-time-utc="2024-05-02T20:00:00+00:00" end-time-utc="2024-05-03T11:00:00+00:00" units="Celsius" type="maximum_air_temperature" instance="running" time-utc="2024-05-03T04:39:00+00:00" time-local="2024-05-03T14:39:00+10:00">21.0</element>
+          <element start-time-local="2024-05-02T18:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" start-time-utc="2024-05-02T08:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="Celsius" type="minimum_air_temperature" instance="running" time-utc="2024-05-02T21:15:00+00:00" time-local="2024-05-03T07:15:00+10:00">3.6</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="knots" type="maximum_gust_spd" instance="running" time-utc="2024-05-03T07:25:00+00:00" time-local="2024-05-03T17:25:00+10:00">12</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="km/h" type="maximum_gust_kmh" instance="running" time-utc="2024-05-03T07:25:00+00:00" time-local="2024-05-03T17:25:00+10:00">22</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" type="maximum_gust_dir" instance="running" time-utc="2024-05-03T07:25:00+00:00" time-local="2024-05-03T17:25:00+10:00">SSE</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="94881" bom-id="088164" tz="Australia/Melbourne" stn-name="EILDON FIRE TOWER" stn-height="637.00" type="AWS" lat="-37.2091" lon="145.8423" forecast-district-id="VIC_PW008" description="Eildon Fire Tower">
+      <period index="0" time-utc="2024-05-03T07:50:00+00:00" time-local="2024-05-03T17:50:00+10:00" wind-src="OMD">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">9.8</element>
+          <element units="Celsius" type="delta_t">3.3</element>
+          <element units="km/h" type="gust_kmh">11</element>
+          <element units="knots" type="wind_gust_spd">6</element>
+          <element units="Celsius" type="air_temperature">12.5</element>
+          <element units="Celsius" type="dew_point">5.6</element>
+          <element units="%" type="rel-humidity">63</element>
+          <element type="wind_dir">WSW</element>
+          <element units="deg" type="wind_dir_deg">258</element>
+          <element units="km/h" type="wind_spd_kmh">9</element>
+          <element units="knots" type="wind_spd">5</element>
+          <element start-time-local="2024-05-03T09:00:00+10:00" end-time-local="2024-05-03T17:52:00+10:00" duration="532" start-time-utc="2024-05-02T23:00:00+00:00" end-time-utc="2024-05-03T07:52:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-05-02T09:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" duration="1440" start-time-utc="2024-05-01T23:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+          <element start-time-local="2024-05-03T06:00:00+10:00" end-time-local="2024-05-03T21:00:00+10:00" start-time-utc="2024-05-02T20:00:00+00:00" end-time-utc="2024-05-03T11:00:00+00:00" units="Celsius" type="maximum_air_temperature" instance="running" time-utc="2024-05-03T03:03:00+00:00" time-local="2024-05-03T13:03:00+10:00">17.4</element>
+          <element start-time-local="2024-05-02T18:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" start-time-utc="2024-05-02T08:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="Celsius" type="minimum_air_temperature" instance="running" time-utc="2024-05-02T19:51:00+00:00" time-local="2024-05-03T05:51:00+10:00">6.1</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="knots" type="maximum_gust_spd" instance="running" time-utc="2024-05-03T06:37:00+00:00" time-local="2024-05-03T16:37:00+10:00">12</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="km/h" type="maximum_gust_kmh" instance="running" time-utc="2024-05-03T06:37:00+00:00" time-local="2024-05-03T16:37:00+10:00">22</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" type="maximum_gust_dir" instance="running" time-utc="2024-05-03T06:37:00+00:00" time-local="2024-05-03T16:37:00+10:00">SW</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="94860" bom-id="088162" tz="Australia/Melbourne" stn-name="KILMORE GAP" stn-height="527.80" type="AWS" lat="-37.3807" lon="144.9654" forecast-district-id="VIC_PW008" description="Kilmore Gap">
+      <period index="0" time-utc="2024-05-03T07:50:00+00:00" time-local="2024-05-03T17:50:00+10:00" wind-src="OMD">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">7.3</element>
+          <element type="cloud">Clear</element>
+          <element type="cloud_oktas">0</element>
+          <element units="Celsius" type="delta_t">1.3</element>
+          <element units="km/h" type="gust_kmh">19</element>
+          <element units="knots" type="wind_gust_spd">10</element>
+          <element units="Celsius" type="air_temperature">10.9</element>
+          <element units="Celsius" type="dew_point">8.3</element>
+          <element units="hPa" type="pres">1027.6</element>
+          <element units="hPa" type="msl_pres">1027.6</element>
+          <element units="hPa" type="qnh_pres">1027.2</element>
+          <element units="%" type="rel-humidity">84</element>
+          <element units="km" type="vis_km">49</element>
+          <element type="wind_dir">SE</element>
+          <element units="deg" type="wind_dir_deg">144</element>
+          <element units="km/h" type="wind_spd_kmh">17</element>
+          <element units="knots" type="wind_spd">9</element>
+          <element start-time-local="2024-05-03T09:00:00+10:00" end-time-local="2024-05-03T17:52:00+10:00" duration="532" start-time-utc="2024-05-02T23:00:00+00:00" end-time-utc="2024-05-03T07:52:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-05-02T09:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" duration="1440" start-time-utc="2024-05-01T23:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="mm" type="rainfall_24hr">0.2</element>
+          <element start-time-local="2024-05-03T06:00:00+10:00" end-time-local="2024-05-03T21:00:00+10:00" start-time-utc="2024-05-02T20:00:00+00:00" end-time-utc="2024-05-03T11:00:00+00:00" units="Celsius" type="maximum_air_temperature" instance="running" time-utc="2024-05-03T03:14:00+00:00" time-local="2024-05-03T13:14:00+10:00">17.7</element>
+          <element start-time-local="2024-05-02T18:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" start-time-utc="2024-05-02T08:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="Celsius" type="minimum_air_temperature" instance="running" time-utc="2024-05-02T20:03:00+00:00" time-local="2024-05-03T06:03:00+10:00">7.3</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="knots" type="maximum_gust_spd" instance="running" time-utc="2024-05-03T05:50:00+00:00" time-local="2024-05-03T15:50:00+10:00">16</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="km/h" type="maximum_gust_kmh" instance="running" time-utc="2024-05-03T05:50:00+00:00" time-local="2024-05-03T15:50:00+10:00">30</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" type="maximum_gust_dir" instance="running" time-utc="2024-05-03T05:50:00+00:00" time-local="2024-05-03T15:50:00+10:00">SE</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="94849" bom-id="088043" tz="Australia/Melbourne" stn-name="MARYBOROUGH" stn-height="249.30" type="Non-AWS" lat="-37.0560" lon="143.7320" forecast-district-id="VIC_PW008" description="Maryborough">
+      <period index="0" time-utc="2024-05-02T23:00:00+00:00" time-local="2024-05-03T09:00:00+10:00" wind-src="mdf">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">9.5</element>
+          <element type="cloud">Partly cloudy</element>
+          <element type="cloud_oktas">3</element>
+          <element type="cloud_type_id">30</element>
+          <element units="Celsius" type="delta_t">2.3</element>
+          <element units="Celsius" type="air_temperature">10.8</element>
+          <element units="Celsius" type="dew_point">5.9</element>
+          <element units="%" type="rel-humidity">72</element>
+          <element units="km" type="vis_km">30</element>
+          <element type="weather">Fine</element>
+          <element type="wind_dir">NE</element>
+          <element units="deg" type="wind_dir_deg">50</element>
+          <element units="km/h" type="wind_spd_kmh">2</element>
+          <element units="knots" type="wind_spd">1</element>
+          <element start-time-local="2024-05-02T09:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" duration="1440" start-time-utc="2024-05-01T23:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-05-02T09:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" duration="1440" start-time-utc="2024-05-01T23:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="94858" bom-id="088167" tz="Australia/Melbourne" stn-name="PUCKAPUNYAL LYON HILL (DEFENCE)" stn-height="193.00" type="AWS" lat="-36.9381" lon="145.0539" forecast-district-id="VIC_PW008" description="Puckapunyal-Lyon Hill (Defence)">
+      <period index="0" time-utc="2024-05-03T07:50:00+00:00" time-local="2024-05-03T17:50:00+10:00" wind-src="OMD">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">13.0</element>
+          <element units="Celsius" type="delta_t">5.1</element>
+          <element units="km/h" type="gust_kmh">9</element>
+          <element units="knots" type="wind_gust_spd">5</element>
+          <element units="Celsius" type="air_temperature">15.8</element>
+          <element units="Celsius" type="dew_point">5.1</element>
+          <element units="%" type="rel-humidity">49</element>
+          <element type="wind_dir">SSE</element>
+          <element units="deg" type="wind_dir_deg">153</element>
+          <element units="km/h" type="wind_spd_kmh">9</element>
+          <element units="knots" type="wind_spd">5</element>
+          <element start-time-local="2024-05-03T09:00:00+10:00" end-time-local="2024-05-03T17:52:00+10:00" duration="532" start-time-utc="2024-05-02T23:00:00+00:00" end-time-utc="2024-05-03T07:52:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-05-02T09:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" duration="1440" start-time-utc="2024-05-01T23:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+          <element start-time-local="2024-05-03T06:00:00+10:00" end-time-local="2024-05-03T21:00:00+10:00" start-time-utc="2024-05-02T20:00:00+00:00" end-time-utc="2024-05-03T11:00:00+00:00" units="Celsius" type="maximum_air_temperature" instance="running" time-utc="2024-05-03T04:41:00+00:00" time-local="2024-05-03T14:41:00+10:00">20.2</element>
+          <element start-time-local="2024-05-02T18:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" start-time-utc="2024-05-02T08:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="Celsius" type="minimum_air_temperature" instance="running" time-utc="2024-05-02T21:25:00+00:00" time-local="2024-05-03T07:25:00+10:00">7.8</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="knots" type="maximum_gust_spd" instance="running" time-utc="2024-05-02T21:22:00+00:00" time-local="2024-05-03T07:22:00+10:00">12</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="km/h" type="maximum_gust_kmh" instance="running" time-utc="2024-05-02T21:22:00+00:00" time-local="2024-05-03T07:22:00+10:00">22</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" type="maximum_gust_dir" instance="running" time-utc="2024-05-02T21:22:00+00:00" time-local="2024-05-03T07:22:00+10:00">SSE</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="94856" bom-id="088166" tz="Australia/Melbourne" stn-name="PUCKAPUNYAL WEST (DEFENCE)" stn-height="293.00" type="AWS" lat="-37.0177" lon="144.8546" forecast-district-id="VIC_PW008" description="Puckapunyal West (Defence)">
+      <period index="0" time-utc="2024-05-03T07:50:00+00:00" time-local="2024-05-03T17:50:00+10:00" wind-src="OMD">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">11.5</element>
+          <element units="Celsius" type="delta_t">3.2</element>
+          <element units="km/h" type="gust_kmh">17</element>
+          <element units="knots" type="wind_gust_spd">9</element>
+          <element units="Celsius" type="air_temperature">14.4</element>
+          <element units="Celsius" type="dew_point">8.1</element>
+          <element units="%" type="rel-humidity">66</element>
+          <element type="wind_dir">S</element>
+          <element units="deg" type="wind_dir_deg">175</element>
+          <element units="km/h" type="wind_spd_kmh">13</element>
+          <element units="knots" type="wind_spd">7</element>
+          <element start-time-local="2024-05-03T09:00:00+10:00" end-time-local="2024-05-03T17:52:00+10:00" duration="532" start-time-utc="2024-05-02T23:00:00+00:00" end-time-utc="2024-05-03T07:52:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-05-02T09:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" duration="1440" start-time-utc="2024-05-01T23:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+          <element start-time-local="2024-05-03T06:00:00+10:00" end-time-local="2024-05-03T21:00:00+10:00" start-time-utc="2024-05-02T20:00:00+00:00" end-time-utc="2024-05-03T11:00:00+00:00" units="Celsius" type="maximum_air_temperature" instance="running" time-utc="2024-05-03T04:23:00+00:00" time-local="2024-05-03T14:23:00+10:00">19.8</element>
+          <element start-time-local="2024-05-02T18:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" start-time-utc="2024-05-02T08:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="Celsius" type="minimum_air_temperature" instance="running" time-utc="2024-05-02T21:18:00+00:00" time-local="2024-05-03T07:18:00+10:00">7.1</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="knots" type="maximum_gust_spd" instance="running" time-utc="2024-05-03T07:05:00+00:00" time-local="2024-05-03T17:05:00+10:00">14</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="km/h" type="maximum_gust_kmh" instance="running" time-utc="2024-05-03T07:05:00+00:00" time-local="2024-05-03T17:05:00+10:00">26</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" type="maximum_gust_dir" instance="running" time-utc="2024-05-03T07:05:00+00:00" time-local="2024-05-03T17:05:00+10:00">SSE</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="94835" bom-id="079101" tz="Australia/Melbourne" stn-name="BEN NEVIS" stn-height="875.00" type="AWS" lat="-37.2281" lon="143.2005" forecast-district-id="VIC_PW009" description="Ben Nevis">
+      <period index="0" time-utc="2024-05-03T07:50:00+00:00" time-local="2024-05-03T17:50:00+10:00" wind-src="OMD">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">8.0</element>
+          <element units="Celsius" type="delta_t">3.0</element>
+          <element units="km/h" type="
