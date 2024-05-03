@@ -2391,4 +2391,56 @@
       <period index="0" time-utc="2024-05-03T08:00:00+00:00" time-local="2024-05-03T18:00:00+10:00" wind-src="metar_10">
         <level index="0" type="surface">
           <element units="Celsius" type="apparent_temp">9.9</element>
-          <element type="cloud">Cle
+          <element type="cloud">Clear</element>
+          <element type="cloud_oktas">0</element>
+          <element units="Celsius" type="delta_t">3.9</element>
+          <element units="km/h" type="gust_kmh">17</element>
+          <element units="knots" type="wind_gust_spd">9</element>
+          <element units="Celsius" type="air_temperature">13.5</element>
+          <element units="Celsius" type="dew_point">5.2</element>
+          <element units="hPa" type="pres">1027.2</element>
+          <element units="hPa" type="msl_pres">1027.2</element>
+          <element units="hPa" type="qnh_pres">1027.0</element>
+          <element units="mm" type="rain_hour">0.0</element>
+          <element units="mm" type="rain_ten">0.0</element>
+          <element units="%" type="rel-humidity">57</element>
+          <element units="km" type="vis_km">10</element>
+          <element type="wind_dir">SSE</element>
+          <element units="deg" type="wind_dir_deg">149</element>
+          <element units="km/h" type="wind_spd_kmh">13</element>
+          <element units="knots" type="wind_spd">7</element>
+          <element start-time-local="2024-05-03T09:00:00+10:00" end-time-local="2024-05-03T18:03:00+10:00" duration="543" start-time-utc="2024-05-02T23:00:00+00:00" end-time-utc="2024-05-03T08:03:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-05-02T09:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" duration="1440" start-time-utc="2024-05-01T23:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+          <element start-time-local="2024-05-03T06:00:00+10:00" end-time-local="2024-05-03T21:00:00+10:00" start-time-utc="2024-05-02T20:00:00+00:00" end-time-utc="2024-05-03T11:00:00+00:00" units="Celsius" type="maximum_air_temperature" instance="running" time-utc="2024-05-03T04:47:00+00:00" time-local="2024-05-03T14:47:00+10:00">18.7</element>
+          <element start-time-local="2024-05-03T18:00:00+10:00" end-time-local="2024-05-04T09:00:00+10:00" start-time-utc="2024-05-03T08:00:00+00:00" end-time-utc="2024-05-03T23:00:00+00:00" units="Celsius" type="minimum_air_temperature" instance="running" time-utc="2024-05-03T08:00:00+00:00" time-local="2024-05-03T18:00:00+10:00">13.4</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="knots" type="maximum_gust_spd" instance="running" time-utc="2024-05-03T05:51:00+00:00" time-local="2024-05-03T15:51:00+10:00">14</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="km/h" type="maximum_gust_kmh" instance="running" time-utc="2024-05-03T05:51:00+00:00" time-local="2024-05-03T15:51:00+10:00">26</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" type="maximum_gust_dir" instance="running" time-utc="2024-05-03T05:51:00+00:00" time-local="2024-05-03T15:51:00+10:00">SSE</element>
+        </level>
+      </period>
+    </station>
+    <station wmo-id="94840" bom-id="090176" tz="Australia/Melbourne" stn-name="MORTLAKE RACECOURSE" stn-height="130.00" type="AWS" lat="-38.0737" lon="142.7744" forecast-district-id="VIC_PW009" description="Mortlake">
+      <period index="0" time-utc="2024-05-03T08:00:00+00:00" time-local="2024-05-03T18:00:00+10:00" wind-src="metar_10">
+        <level index="0" type="surface">
+          <element units="Celsius" type="apparent_temp">11.9</element>
+          <element units="Celsius" type="delta_t">2.7</element>
+          <element units="km/h" type="gust_kmh">13</element>
+          <element units="knots" type="wind_gust_spd">7</element>
+          <element units="Celsius" type="air_temperature">13.9</element>
+          <element units="Celsius" type="dew_point">8.5</element>
+          <element units="hPa" type="pres">1027.3</element>
+          <element units="hPa" type="msl_pres">1027.3</element>
+          <element units="hPa" type="qnh_pres">1027.2</element>
+          <element units="mm" type="rain_hour">0.0</element>
+          <element units="mm" type="rain_ten">0.0</element>
+          <element units="%" type="rel-humidity">70</element>
+          <element type="wind_dir">S</element>
+          <element units="deg" type="wind_dir_deg">171</element>
+          <element units="km/h" type="wind_spd_kmh">9</element>
+          <element units="knots" type="wind_spd">5</element>
+          <element start-time-local="2024-05-03T09:00:00+10:00" end-time-local="2024-05-03T18:03:00+10:00" duration="543" start-time-utc="2024-05-02T23:00:00+00:00" end-time-utc="2024-05-03T08:03:00+00:00" units="mm" type="rainfall">0.0</element>
+          <element start-time-local="2024-05-02T09:00:00+10:00" end-time-local="2024-05-03T09:00:00+10:00" duration="1440" start-time-utc="2024-05-01T23:00:00+00:00" end-time-utc="2024-05-02T23:00:00+00:00" units="mm" type="rainfall_24hr">0.0</element>
+          <element start-time-local="2024-05-03T06:00:00+10:00" end-time-local="2024-05-03T21:00:00+10:00" start-time-utc="2024-05-02T20:00:00+00:00" end-time-utc="2024-05-03T11:00:00+00:00" units="Celsius" type="maximum_air_temperature" instance="running" time-utc="2024-05-03T06:06:00+00:00" time-local="2024-05-03T16:06:00+10:00">17.7</element>
+          <element start-time-local="2024-05-03T18:00:00+10:00" end-time-local="2024-05-04T09:00:00+10:00" start-time-utc="2024-05-03T08:00:00+00:00" end-time-utc="2024-05-03T23:00:00+00:00" units="Celsius" type="minimum_air_temperature" instance="running" time-utc="2024-05-03T08:00:00+00:00" time-local="2024-05-03T18:00:00+10:00">13.8</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="knots" type="maximum_gust_spd" instance="running" time-utc="2024-05-03T05:50:00+00:00" time-local="2024-05-03T15:50:00+10:00">9</element>
+          <element start-time-local="2024-05-03T00:00:00+10:00" end-time-local="2024-05-04T00:00:00+10:00" start-time-utc="2024-05-02T14:00:00+00:00" end-time-utc="2024-05-03T14:00:00+00:00" units="km/h" type="maximum_gust_kmh" instance="running" time-utc="2024-05-03
