@@ -1,3011 +1,739 @@
 {
   "stations": [
     {
-      "local_time": "2024-05-03T00:10:00+10:00",
+      "local_time": "2024-07-17T00:10:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "N",
-        "direction_degrees": "353"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "N",
-        "direction_degrees": "353"
-      }
-    },
-    {
-      "local_time": "2024-05-03T00:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NNE",
-        "direction_degrees": "16"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NNE",
-        "direction_degrees": "16"
-      }
-    },
-    {
-      "local_time": "2024-05-03T00:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "27"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NNE",
-        "direction_degrees": "27"
-      }
-    },
-    {
-      "local_time": "2024-05-03T00:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NE",
-        "direction_degrees": "46"
-      },
-      "wind_speed": {
-        "speed_kmh": "2",
-        "speed_knots": "1",
-        "direction": "NE",
-        "direction_degrees": "46"
-      }
-    },
-    {
-      "local_time": "2024-05-03T00:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NE",
-        "direction_degrees": "48"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NE",
-        "direction_degrees": "48"
-      }
-    },
-    {
-      "local_time": "2024-05-03T01:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NE",
-        "direction_degrees": "46"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NE",
-        "direction_degrees": "46"
-      }
-    },
-    {
-      "local_time": "2024-05-03T01:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NNE",
-        "direction_degrees": "28"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NNE",
-        "direction_degrees": "28"
-      }
-    },
-    {
-      "local_time": "2024-05-03T01:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NNE",
-        "direction_degrees": "31"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NNE",
-        "direction_degrees": "31"
-      }
-    },
-    {
-      "local_time": "2024-05-03T01:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "29"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NNE",
-        "direction_degrees": "29"
-      }
-    },
-    {
-      "local_time": "2024-05-03T01:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "28"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "28"
-      }
-    },
-    {
-      "local_time": "2024-05-03T01:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "12"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "12"
-      }
-    },
-    {
-      "local_time": "2024-05-03T02:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "18"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "18"
-      }
-    },
-    {
-      "local_time": "2024-05-03T02:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "26"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "26"
-      }
-    },
-    {
-      "local_time": "2024-05-03T02:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "24"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "24"
-      }
-    },
-    {
-      "local_time": "2024-05-03T02:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "21"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "21"
-      }
-    },
-    {
-      "local_time": "2024-05-03T02:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "13"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "13"
-      }
-    },
-    {
-      "local_time": "2024-05-03T02:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "N",
-        "direction_degrees": "6"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "N",
-        "direction_degrees": "6"
-      }
-    },
-    {
-      "local_time": "2024-05-03T03:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "13"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "13"
-      }
-    },
-    {
-      "local_time": "2024-05-03T03:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NE",
-        "direction_degrees": "40"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NE",
-        "direction_degrees": "40"
-      }
-    },
-    {
-      "local_time": "2024-05-03T03:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "33"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "33"
-      }
-    },
-    {
-      "local_time": "2024-05-03T03:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "31"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "31"
-      }
-    },
-    {
-      "local_time": "2024-05-03T04:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "25"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "25"
-      }
-    },
-    {
-      "local_time": "2024-05-03T04:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "29"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "29"
-      }
-    },
-    {
-      "local_time": "2024-05-03T04:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "26"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "26"
-      }
-    },
-    {
-      "local_time": "2024-05-03T04:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "26"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "26"
-      }
-    },
-    {
-      "local_time": "2024-05-03T04:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "22"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "22"
-      }
-    },
-    {
-      "local_time": "2024-05-03T04:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "29"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "29"
-      }
-    },
-    {
-      "local_time": "2024-05-03T05:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "29"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "29"
-      }
-    },
-    {
-      "local_time": "2024-05-03T05:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "31"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "31"
-      }
-    },
-    {
-      "local_time": "2024-05-03T05:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "28"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "28"
-      }
-    },
-    {
-      "local_time": "2024-05-03T05:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "26"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "26"
-      }
-    },
-    {
-      "local_time": "2024-05-03T05:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "23"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "23"
-      }
-    },
-    {
-      "local_time": "2024-05-03T05:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "12"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "12"
-      }
-    },
-    {
-      "local_time": "2024-05-03T06:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "19"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "19"
-      }
-    },
-    {
-      "local_time": "2024-05-03T06:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "23"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "23"
-      }
-    },
-    {
-      "local_time": "2024-05-03T06:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "29"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "29"
-      }
-    },
-    {
-      "local_time": "2024-05-03T06:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "31"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "31"
-      }
-    },
-    {
-      "local_time": "2024-05-03T06:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "25"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "25"
-      }
-    },
-    {
-      "local_time": "2024-05-03T06:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "26"
-      },
-      "wind_speed": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "26"
-      }
-    },
-    {
-      "local_time": "2024-05-03T07:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "NNE",
-        "direction_degrees": "29"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "29"
-      }
-    },
-    {
-      "local_time": "2024-05-03T07:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "NNE",
-        "direction_degrees": "22"
-      },
-      "wind_speed": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "22"
-      }
-    },
-    {
-      "local_time": "2024-05-03T07:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "NNE",
-        "direction_degrees": "23"
-      },
-      "wind_speed": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "23"
-      }
-    },
-    {
-      "local_time": "2024-05-03T07:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "NNE",
-        "direction_degrees": "27"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "27"
-      }
-    },
-    {
-      "local_time": "2024-05-03T07:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "19"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "19"
-      }
-    },
-    {
-      "local_time": "2024-05-03T07:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NE",
-        "direction_degrees": "36"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NE",
-        "direction_degrees": "36"
-      }
-    },
-    {
-      "local_time": "2024-05-03T08:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "NE",
-        "direction_degrees": "34"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NE",
-        "direction_degrees": "34"
-      }
-    },
-    {
-      "local_time": "2024-05-03T08:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NE",
-        "direction_degrees": "36"
-      },
-      "wind_speed": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NE",
-        "direction_degrees": "36"
-      }
-    },
-    {
-      "local_time": "2024-05-03T08:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NE",
-        "direction_degrees": "37"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NE",
-        "direction_degrees": "37"
-      }
-    },
-    {
-      "local_time": "2024-05-03T08:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "30"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "30"
-      }
-    },
-    {
-      "local_time": "2024-05-03T08:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "21"
-      },
-      "wind_speed": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "21"
-      }
-    },
-    {
-      "local_time": "2024-05-03T08:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "21"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "21"
-      }
-    },
-    {
-      "local_time": "2024-05-03T09:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NNE",
-        "direction_degrees": "27"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "27"
-      }
-    },
-    {
-      "local_time": "2024-05-03T09:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "13"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "13"
-      }
-    },
-    {
-      "local_time": "2024-05-03T09:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "23"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "23"
-      }
-    },
-    {
-      "local_time": "2024-05-03T09:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "27"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NNE",
-        "direction_degrees": "27"
-      }
-    },
-    {
-      "local_time": "2024-05-03T09:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "N",
-        "direction_degrees": "352"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "N",
-        "direction_degrees": "352"
-      }
-    },
-    {
-      "local_time": "2024-05-03T09:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "0",
-        "speed_knots": "0",
-        "direction": "CALM",
-        "direction_degrees": "0"
-      },
-      "wind_speed": {
-        "speed_kmh": "0",
-        "speed_knots": "0",
-        "direction": "CALM",
-        "direction_degrees": "0"
-      }
-    },
-    {
-      "local_time": "2024-05-03T10:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "2",
-        "speed_knots": "1",
-        "direction": "CALM",
-        "direction_degrees": "0"
-      },
-      "wind_speed": {
-        "speed_kmh": "0",
-        "speed_knots": "0",
-        "direction": "CALM",
-        "direction_degrees": "0"
-      }
-    },
-    {
-      "local_time": "2024-05-03T10:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "0",
-        "speed_knots": "0",
-        "direction": "CALM",
-        "direction_degrees": "0"
-      },
-      "wind_speed": {
-        "speed_kmh": "0",
-        "speed_knots": "0",
-        "direction": "CALM",
-        "direction_degrees": "0"
-      }
-    },
-    {
-      "local_time": "2024-05-03T10:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "SW",
-        "direction_degrees": "230"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "SW",
-        "direction_degrees": "230"
-      }
-    },
-    {
-      "local_time": "2024-05-03T10:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "SW",
-        "direction_degrees": "236"
-      },
-      "wind_speed": {
-        "speed_kmh": "2",
-        "speed_knots": "1",
-        "direction": "SW",
-        "direction_degrees": "236"
-      }
-    },
-    {
-      "local_time": "2024-05-03T10:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "SW",
-        "direction_degrees": "236"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "SW",
-        "direction_degrees": "236"
-      }
-    },
-    {
-      "local_time": "2024-05-03T10:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
+        "speed_kmh": "15",
+        "speed_knots": "8",
         "direction": "SW",
         "direction_degrees": "219"
       },
       "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
+        "speed_kmh": "15",
+        "speed_knots": "8",
         "direction": "SW",
         "direction_degrees": "219"
       }
     },
     {
-      "local_time": "2024-05-03T11:00:00+10:00",
+      "local_time": "2024-07-17T00:20:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
+        "speed_kmh": "13",
+        "speed_knots": "7",
         "direction": "SW",
-        "direction_degrees": "226"
+        "direction_degrees": "235"
       },
       "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
+        "speed_kmh": "13",
+        "speed_knots": "7",
         "direction": "SW",
-        "direction_degrees": "226"
+        "direction_degrees": "235"
       }
     },
     {
-      "local_time": "2024-05-03T11:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "SSW",
-        "direction_degrees": "213"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "SSW",
-        "direction_degrees": "213"
-      }
-    },
-    {
-      "local_time": "2024-05-03T11:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "SSW",
-        "direction_degrees": "204"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "SSW",
-        "direction_degrees": "204"
-      }
-    },
-    {
-      "local_time": "2024-05-03T11:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "SSW",
-        "direction_degrees": "206"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "SSW",
-        "direction_degrees": "206"
-      }
-    },
-    {
-      "local_time": "2024-05-03T11:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "SW",
-        "direction_degrees": "216"
-      },
-      "wind_speed": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "SW",
-        "direction_degrees": "216"
-      }
-    },
-    {
-      "local_time": "2024-05-03T11:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "SSW",
-        "direction_degrees": "212"
-      },
-      "wind_speed": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "SSW",
-        "direction_degrees": "212"
-      }
-    },
-    {
-      "local_time": "2024-05-03T12:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "SSW",
-        "direction_degrees": "206"
-      },
-      "wind_speed": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "SSW",
-        "direction_degrees": "206"
-      }
-    },
-    {
-      "local_time": "2024-05-03T12:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "SSW",
-        "direction_degrees": "198"
-      },
-      "wind_speed": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "SSW",
-        "direction_degrees": "198"
-      }
-    },
-    {
-      "local_time": "2024-05-03T12:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "S",
-        "direction_degrees": "188"
-      },
-      "wind_speed": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "S",
-        "direction_degrees": "188"
-      }
-    },
-    {
-      "local_time": "2024-05-03T12:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "SSW",
-        "direction_degrees": "193"
-      },
-      "wind_speed": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "SSW",
-        "direction_degrees": "193"
-      }
-    },
-    {
-      "local_time": "2024-05-03T12:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "SSW",
-        "direction_degrees": "193"
-      },
-      "wind_speed": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "SSW",
-        "direction_degrees": "193"
-      }
-    },
-    {
-      "local_time": "2024-05-03T12:50:00+10:00",
+      "local_time": "2024-07-17T00:30:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "15",
         "speed_knots": "8",
-        "direction": "S",
-        "direction_degrees": "190"
+        "direction": "WSW",
+        "direction_degrees": "238"
       },
       "wind_speed": {
         "speed_kmh": "13",
         "speed_knots": "7",
-        "direction": "S",
-        "direction_degrees": "190"
+        "direction": "WSW",
+        "direction_degrees": "238"
       }
     },
     {
-      "local_time": "2024-05-03T13:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "15",
-        "speed_knots": "8",
-        "direction": "SSW",
-        "direction_degrees": "194"
-      },
-      "wind_speed": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "SSW",
-        "direction_degrees": "194"
-      }
-    },
-    {
-      "local_time": "2024-05-03T13:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "15",
-        "speed_knots": "8",
-        "direction": "S",
-        "direction_degrees": "187"
-      },
-      "wind_speed": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "S",
-        "direction_degrees": "187"
-      }
-    },
-    {
-      "local_time": "2024-05-03T13:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "15",
-        "speed_knots": "8",
-        "direction": "SSW",
-        "direction_degrees": "197"
-      },
-      "wind_speed": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "SSW",
-        "direction_degrees": "197"
-      }
-    },
-    {
-      "local_time": "2024-05-03T13:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "15",
-        "speed_knots": "8",
-        "direction": "SSW",
-        "direction_degrees": "192"
-      },
-      "wind_speed": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "SSW",
-        "direction_degrees": "192"
-      }
-    },
-    {
-      "local_time": "2024-05-03T13:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "SSW",
-        "direction_degrees": "199"
-      },
-      "wind_speed": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "SSW",
-        "direction_degrees": "199"
-      }
-    },
-    {
-      "local_time": "2024-05-03T13:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "SSW",
-        "direction_degrees": "195"
-      },
-      "wind_speed": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "SSW",
-        "direction_degrees": "195"
-      }
-    },
-    {
-      "local_time": "2024-05-03T14:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "SSW",
-        "direction_degrees": "193"
-      },
-      "wind_speed": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "SSW",
-        "direction_degrees": "193"
-      }
-    },
-    {
-      "local_time": "2024-05-03T14:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "S",
-        "direction_degrees": "191"
-      },
-      "wind_speed": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "S",
-        "direction_degrees": "191"
-      }
-    },
-    {
-      "local_time": "2024-05-03T14:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "SSW",
-        "direction_degrees": "199"
-      },
-      "wind_speed": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "SSW",
-        "direction_degrees": "199"
-      }
-    },
-    {
-      "local_time": "2024-05-03T14:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "15",
-        "speed_knots": "8",
-        "direction": "SSW",
-        "direction_degrees": "195"
-      },
-      "wind_speed": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "SSW",
-        "direction_degrees": "195"
-      }
-    },
-    {
-      "local_time": "2024-05-03T14:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "S",
-        "direction_degrees": "184"
-      },
-      "wind_speed": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "S",
-        "direction_degrees": "184"
-      }
-    },
-    {
-      "local_time": "2024-05-03T14:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "15",
-        "speed_knots": "8",
-        "direction": "SSW",
-        "direction_degrees": "192"
-      },
-      "wind_speed": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "SSW",
-        "direction_degrees": "192"
-      }
-    },
-    {
-      "local_time": "2024-05-03T15:00:00+10:00",
+      "local_time": "2024-07-17T00:40:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "17",
         "speed_knots": "9",
-        "direction": "SSW",
-        "direction_degrees": "197"
+        "direction": "WSW",
+        "direction_degrees": "239"
+      },
+      "wind_speed": {
+        "speed_kmh": "15",
+        "speed_knots": "8",
+        "direction": "WSW",
+        "direction_degrees": "239"
+      }
+    },
+    {
+      "local_time": "2024-07-17T00:50:00+10:00",
+      "description": "St Kilda Harbour RMYS",
+      "wind_gust": {
+        "speed_kmh": "15",
+        "speed_knots": "8",
+        "direction": "WSW",
+        "direction_degrees": "248"
       },
       "wind_speed": {
         "speed_kmh": "13",
         "speed_knots": "7",
-        "direction": "SSW",
-        "direction_degrees": "197"
+        "direction": "WSW",
+        "direction_degrees": "248"
       }
     },
     {
-      "local_time": "2024-05-03T15:10:00+10:00",
+      "local_time": "2024-07-17T01:00:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "15",
         "speed_knots": "8",
-        "direction": "SSW",
-        "direction_degrees": "199"
-      },
-      "wind_speed": {
-        "speed_kmh": "15",
-        "speed_knots": "8",
-        "direction": "SSW",
-        "direction_degrees": "199"
-      }
-    },
-    {
-      "local_time": "2024-05-03T15:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "15",
-        "speed_knots": "8",
-        "direction": "SSW",
-        "direction_degrees": "197"
-      },
-      "wind_speed": {
-        "speed_kmh": "15",
-        "speed_knots": "8",
-        "direction": "SSW",
-        "direction_degrees": "197"
-      }
-    },
-    {
-      "local_time": "2024-05-03T15:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "17",
-        "speed_knots": "9",
-        "direction": "SSW",
-        "direction_degrees": "194"
-      },
-      "wind_speed": {
-        "speed_kmh": "15",
-        "speed_knots": "8",
-        "direction": "SSW",
-        "direction_degrees": "194"
-      }
-    },
-    {
-      "local_time": "2024-05-03T15:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "SSW",
-        "direction_degrees": "192"
-      },
-      "wind_speed": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "SSW",
-        "direction_degrees": "192"
-      }
-    },
-    {
-      "local_time": "2024-05-03T15:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "SSW",
-        "direction_degrees": "200"
+        "direction": "WSW",
+        "direction_degrees": "247"
       },
       "wind_speed": {
         "speed_kmh": "11",
         "speed_knots": "6",
-        "direction": "SSW",
-        "direction_degrees": "200"
+        "direction": "WSW",
+        "direction_degrees": "247"
       }
     },
     {
-      "local_time": "2024-05-03T16:00:00+10:00",
+      "local_time": "2024-07-17T01:10:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
-        "speed_kmh": "17",
-        "speed_knots": "9",
-        "direction": "SSW",
-        "direction_degrees": "195"
+        "speed_kmh": "15",
+        "speed_knots": "8",
+        "direction": "WSW",
+        "direction_degrees": "241"
+      },
+      "wind_speed": {
+        "speed_kmh": "15",
+        "speed_knots": "8",
+        "direction": "WSW",
+        "direction_degrees": "241"
+      }
+    },
+    {
+      "local_time": "2024-07-17T01:20:00+10:00",
+      "description": "St Kilda Harbour RMYS",
+      "wind_gust": {
+        "speed_kmh": "13",
+        "speed_knots": "7",
+        "direction": "WSW",
+        "direction_degrees": "238"
       },
       "wind_speed": {
         "speed_kmh": "13",
         "speed_knots": "7",
-        "direction": "SSW",
-        "direction_degrees": "195"
+        "direction": "WSW",
+        "direction_degrees": "238"
       }
     },
     {
-      "local_time": "2024-05-03T16:10:00+10:00",
+      "local_time": "2024-07-17T01:30:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
-        "speed_kmh": "20",
-        "speed_knots": "11",
-        "direction": "S",
-        "direction_degrees": "183"
+        "speed_kmh": "11",
+        "speed_knots": "6",
+        "direction": "WSW",
+        "direction_degrees": "239"
       },
       "wind_speed": {
-        "speed_kmh": "20",
-        "speed_knots": "11",
-        "direction": "S",
-        "direction_degrees": "183"
+        "speed_kmh": "9",
+        "speed_knots": "5",
+        "direction": "WSW",
+        "direction_degrees": "239"
       }
     },
     {
-      "local_time": "2024-05-03T16:20:00+10:00",
+      "local_time": "2024-07-17T01:40:00+10:00",
+      "description": "St Kilda Harbour RMYS",
+      "wind_gust": {
+        "speed_kmh": "15",
+        "speed_knots": "8",
+        "direction": "WSW",
+        "direction_degrees": "239"
+      },
+      "wind_speed": {
+        "speed_kmh": "13",
+        "speed_knots": "7",
+        "direction": "WSW",
+        "direction_degrees": "239"
+      }
+    },
+    {
+      "local_time": "2024-07-17T01:50:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "19",
         "speed_knots": "10",
-        "direction": "S",
-        "direction_degrees": "186"
+        "direction": "WSW",
+        "direction_degrees": "243"
       },
       "wind_speed": {
         "speed_kmh": "19",
         "speed_knots": "10",
-        "direction": "S",
-        "direction_degrees": "186"
+        "direction": "WSW",
+        "direction_degrees": "243"
       }
     },
     {
-      "local_time": "2024-05-03T16:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "20",
-        "speed_knots": "11",
-        "direction": "S",
-        "direction_degrees": "182"
-      },
-      "wind_speed": {
-        "speed_kmh": "19",
-        "speed_knots": "10",
-        "direction": "S",
-        "direction_degrees": "182"
-      }
-    },
-    {
-      "local_time": "2024-05-03T16:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "19",
-        "speed_knots": "10",
-        "direction": "S",
-        "direction_degrees": "177"
-      },
-      "wind_speed": {
-        "speed_kmh": "17",
-        "speed_knots": "9",
-        "direction": "S",
-        "direction_degrees": "177"
-      }
-    },
-    {
-      "local_time": "2024-05-03T16:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "19",
-        "speed_knots": "10",
-        "direction": "S",
-        "direction_degrees": "181"
-      },
-      "wind_speed": {
-        "speed_kmh": "17",
-        "speed_knots": "9",
-        "direction": "S",
-        "direction_degrees": "181"
-      }
-    },
-    {
-      "local_time": "2024-05-03T17:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "19",
-        "speed_knots": "10",
-        "direction": "S",
-        "direction_degrees": "184"
-      },
-      "wind_speed": {
-        "speed_kmh": "17",
-        "speed_knots": "9",
-        "direction": "S",
-        "direction_degrees": "184"
-      }
-    },
-    {
-      "local_time": "2024-05-03T17:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "19",
-        "speed_knots": "10",
-        "direction": "S",
-        "direction_degrees": "184"
-      },
-      "wind_speed": {
-        "speed_kmh": "17",
-        "speed_knots": "9",
-        "direction": "S",
-        "direction_degrees": "184"
-      }
-    },
-    {
-      "local_time": "2024-05-03T17:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "17",
-        "speed_knots": "9",
-        "direction": "S",
-        "direction_degrees": "178"
-      },
-      "wind_speed": {
-        "speed_kmh": "17",
-        "speed_knots": "9",
-        "direction": "S",
-        "direction_degrees": "178"
-      }
-    },
-    {
-      "local_time": "2024-05-03T17:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "19",
-        "speed_knots": "10",
-        "direction": "S",
-        "direction_degrees": "182"
-      },
-      "wind_speed": {
-        "speed_kmh": "17",
-        "speed_knots": "9",
-        "direction": "S",
-        "direction_degrees": "182"
-      }
-    },
-    {
-      "local_time": "2024-05-03T17:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "15",
-        "speed_knots": "8",
-        "direction": "S",
-        "direction_degrees": "178"
-      },
-      "wind_speed": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "S",
-        "direction_degrees": "178"
-      }
-    },
-    {
-      "local_time": "2024-05-03T17:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "S",
-        "direction_degrees": "179"
-      },
-      "wind_speed": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "S",
-        "direction_degrees": "179"
-      }
-    },
-    {
-      "local_time": "2024-05-03T18:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "S",
-        "direction_degrees": "173"
-      },
-      "wind_speed": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "S",
-        "direction_degrees": "173"
-      }
-    },
-    {
-      "local_time": "2024-05-03T18:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "SE",
-        "direction_degrees": "145"
-      },
-      "wind_speed": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "SE",
-        "direction_degrees": "145"
-      }
-    },
-    {
-      "local_time": "2024-05-03T18:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "SE",
-        "direction_degrees": "131"
-      },
-      "wind_speed": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "SE",
-        "direction_degrees": "131"
-      }
-    },
-    {
-      "local_time": "2024-05-03T18:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "15",
-        "speed_knots": "8",
-        "direction": "ESE",
-        "direction_degrees": "123"
-      },
-      "wind_speed": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "ESE",
-        "direction_degrees": "123"
-      }
-    },
-    {
-      "local_time": "2024-05-03T18:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "ESE",
-        "direction_degrees": "111"
-      },
-      "wind_speed": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "ESE",
-        "direction_degrees": "111"
-      }
-    },
-    {
-      "local_time": "2024-05-03T18:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "15",
-        "speed_knots": "8",
-        "direction": "ESE",
-        "direction_degrees": "122"
-      },
-      "wind_speed": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "ESE",
-        "direction_degrees": "122"
-      }
-    },
-    {
-      "local_time": "2024-05-03T19:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "17",
-        "speed_knots": "9",
-        "direction": "ESE",
-        "direction_degrees": "120"
-      },
-      "wind_speed": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "ESE",
-        "direction_degrees": "120"
-      }
-    },
-    {
-      "local_time": "2024-05-03T19:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "17",
-        "speed_knots": "9",
-        "direction": "ESE",
-        "direction_degrees": "111"
-      },
-      "wind_speed": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "ESE",
-        "direction_degrees": "111"
-      }
-    },
-    {
-      "local_time": "2024-05-03T19:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "20",
-        "speed_knots": "11",
-        "direction": "ESE",
-        "direction_degrees": "114"
-      },
-      "wind_speed": {
-        "speed_kmh": "15",
-        "speed_knots": "8",
-        "direction": "ESE",
-        "direction_degrees": "114"
-      }
-    },
-    {
-      "local_time": "2024-05-03T19:30:00+10:00",
+      "local_time": "2024-07-17T02:00:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "22",
         "speed_knots": "12",
-        "direction": "ESE",
-        "direction_degrees": "111"
-      },
-      "wind_speed": {
-        "speed_kmh": "15",
-        "speed_knots": "8",
-        "direction": "ESE",
-        "direction_degrees": "111"
-      }
-    },
-    {
-      "local_time": "2024-05-03T19:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "19",
-        "speed_knots": "10",
-        "direction": "ESE",
-        "direction_degrees": "117"
-      },
-      "wind_speed": {
-        "speed_kmh": "15",
-        "speed_knots": "8",
-        "direction": "ESE",
-        "direction_degrees": "117"
-      }
-    },
-    {
-      "local_time": "2024-05-03T19:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "26",
-        "speed_knots": "14",
-        "direction": "ESE",
-        "direction_degrees": "115"
-      },
-      "wind_speed": {
-        "speed_kmh": "20",
-        "speed_knots": "11",
-        "direction": "ESE",
-        "direction_degrees": "115"
-      }
-    },
-    {
-      "local_time": "2024-05-03T20:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "28",
-        "speed_knots": "15",
-        "direction": "ESE",
-        "direction_degrees": "115"
+        "direction": "WSW",
+        "direction_degrees": "247"
       },
       "wind_speed": {
         "speed_kmh": "19",
         "speed_knots": "10",
-        "direction": "ESE",
-        "direction_degrees": "115"
+        "direction": "WSW",
+        "direction_degrees": "247"
       }
     },
     {
-      "local_time": "2024-05-03T20:10:00+10:00",
+      "local_time": "2024-07-17T02:10:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
-        "speed_kmh": "26",
-        "speed_knots": "14",
-        "direction": "ESE",
-        "direction_degrees": "113"
+        "speed_kmh": "15",
+        "speed_knots": "8",
+        "direction": "WSW",
+        "direction_degrees": "257"
       },
       "wind_speed": {
-        "speed_kmh": "20",
-        "speed_knots": "11",
-        "direction": "ESE",
-        "direction_degrees": "113"
+        "speed_kmh": "13",
+        "speed_knots": "7",
+        "direction": "WSW",
+        "direction_degrees": "257"
       }
     },
     {
-      "local_time": "2024-05-03T20:20:00+10:00",
+      "local_time": "2024-07-17T02:20:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
-        "speed_kmh": "24",
-        "speed_knots": "13",
-        "direction": "ESE",
-        "direction_degrees": "113"
+        "speed_kmh": "15",
+        "speed_knots": "8",
+        "direction": "WSW",
+        "direction_degrees": "253"
       },
       "wind_speed": {
-        "speed_kmh": "20",
-        "speed_knots": "11",
-        "direction": "ESE",
-        "direction_degrees": "113"
+        "speed_kmh": "13",
+        "speed_knots": "7",
+        "direction": "WSW",
+        "direction_degrees": "253"
       }
     },
     {
-      "local_time": "2024-05-03T20:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "28",
-        "speed_knots": "15",
-        "direction": "ESE",
-        "direction_degrees": "114"
-      },
-      "wind_speed": {
-        "speed_kmh": "20",
-        "speed_knots": "11",
-        "direction": "ESE",
-        "direction_degrees": "114"
-      }
-    },
-    {
-      "local_time": "2024-05-03T20:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "26",
-        "speed_knots": "14",
-        "direction": "ESE",
-        "direction_degrees": "117"
-      },
-      "wind_speed": {
-        "speed_kmh": "20",
-        "speed_knots": "11",
-        "direction": "ESE",
-        "direction_degrees": "117"
-      }
-    },
-    {
-      "local_time": "2024-05-03T20:50:00+10:00",
+      "local_time": "2024-07-17T02:30:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "22",
         "speed_knots": "12",
-        "direction": "ESE",
-        "direction_degrees": "111"
+        "direction": "WSW",
+        "direction_degrees": "255"
       },
       "wind_speed": {
-        "speed_kmh": "19",
-        "speed_knots": "10",
-        "direction": "ESE",
-        "direction_degrees": "111"
+        "speed_kmh": "15",
+        "speed_knots": "8",
+        "direction": "WSW",
+        "direction_degrees": "255"
       }
     },
     {
-      "local_time": "2024-05-03T21:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "26",
-        "speed_knots": "14",
-        "direction": "ESE",
-        "direction_degrees": "119"
-      },
-      "wind_speed": {
-        "speed_kmh": "19",
-        "speed_knots": "10",
-        "direction": "ESE",
-        "direction_degrees": "119"
-      }
-    },
-    {
-      "local_time": "2024-05-03T21:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "24",
-        "speed_knots": "13",
-        "direction": "ESE",
-        "direction_degrees": "117"
-      },
-      "wind_speed": {
-        "speed_kmh": "20",
-        "speed_knots": "11",
-        "direction": "ESE",
-        "direction_degrees": "117"
-      }
-    },
-    {
-      "local_time": "2024-05-03T21:20:00+10:00",
+      "local_time": "2024-07-17T02:40:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "22",
         "speed_knots": "12",
-        "direction": "ESE",
-        "direction_degrees": "112"
+        "direction": "WSW",
+        "direction_degrees": "246"
       },
       "wind_speed": {
-        "speed_kmh": "17",
-        "speed_knots": "9",
-        "direction": "ESE",
-        "direction_degrees": "112"
+        "speed_kmh": "22",
+        "speed_knots": "12",
+        "direction": "WSW",
+        "direction_degrees": "246"
       }
     },
     {
-      "local_time": "2024-05-03T21:30:00+10:00",
+      "local_time": "2024-07-17T02:50:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "24",
         "speed_knots": "13",
-        "direction": "ESE",
-        "direction_degrees": "110"
+        "direction": "WSW",
+        "direction_degrees": "247"
       },
       "wind_speed": {
-        "speed_kmh": "17",
-        "speed_knots": "9",
-        "direction": "ESE",
-        "direction_degrees": "110"
-      }
-    },
-    {
-      "local_time": "2024-05-03T21:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
         "speed_kmh": "20",
         "speed_knots": "11",
-        "direction": "ESE",
-        "direction_degrees": "119"
-      },
-      "wind_speed": {
-        "speed_kmh": "17",
-        "speed_knots": "9",
-        "direction": "ESE",
-        "direction_degrees": "119"
+        "direction": "WSW",
+        "direction_degrees": "247"
       }
     },
     {
-      "local_time": "2024-05-03T21:50:00+10:00",
+      "local_time": "2024-07-17T03:00:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "ESE",
-        "direction_degrees": "102"
+        "speed_kmh": "24",
+        "speed_knots": "13",
+        "direction": "WSW",
+        "direction_degrees": "250"
       },
       "wind_speed": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "ESE",
-        "direction_degrees": "102"
-      }
-    },
-    {
-      "local_time": "2024-05-03T22:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "17",
-        "speed_knots": "9",
-        "direction": "ESE",
-        "direction_degrees": "113"
-      },
-      "wind_speed": {
-        "speed_kmh": "11",
-        "speed_knots": "6",
-        "direction": "ESE",
-        "direction_degrees": "113"
-      }
-    },
-    {
-      "local_time": "2024-05-03T22:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "19",
-        "speed_knots": "10",
-        "direction": "ESE",
-        "direction_degrees": "112"
-      },
-      "wind_speed": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "ESE",
-        "direction_degrees": "112"
-      }
-    },
-    {
-      "local_time": "2024-05-03T22:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "19",
-        "speed_knots": "10",
-        "direction": "ESE",
-        "direction_degrees": "108"
-      },
-      "wind_speed": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "ESE",
-        "direction_degrees": "108"
-      }
-    },
-    {
-      "local_time": "2024-05-03T22:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
         "speed_kmh": "20",
         "speed_knots": "11",
-        "direction": "ESE",
-        "direction_degrees": "109"
-      },
-      "wind_speed": {
-        "speed_kmh": "13",
-        "speed_knots": "7",
-        "direction": "ESE",
-        "direction_degrees": "109"
+        "direction": "WSW",
+        "direction_degrees": "250"
       }
     },
     {
-      "local_time": "2024-05-03T22:40:00+10:00",
+      "local_time": "2024-07-17T03:10:00+10:00",
+      "description": "St Kilda Harbour RMYS",
+      "wind_gust": {
+        "speed_kmh": "17",
+        "speed_knots": "9",
+        "direction": "WSW",
+        "direction_degrees": "256"
+      },
+      "wind_speed": {
+        "speed_kmh": "15",
+        "speed_knots": "8",
+        "direction": "WSW",
+        "direction_degrees": "256"
+      }
+    },
+    {
+      "local_time": "2024-07-17T03:20:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "15",
         "speed_knots": "8",
-        "direction": "ESE",
-        "direction_degrees": "105"
+        "direction": "W",
+        "direction_degrees": "273"
+      },
+      "wind_speed": {
+        "speed_kmh": "13",
+        "speed_knots": "7",
+        "direction": "W",
+        "direction_degrees": "273"
+      }
+    },
+    {
+      "local_time": "2024-07-17T03:30:00+10:00",
+      "description": "St Kilda Harbour RMYS",
+      "wind_gust": {
+        "speed_kmh": "15",
+        "speed_knots": "8",
+        "direction": "WNW",
+        "direction_degrees": "303"
       },
       "wind_speed": {
         "speed_kmh": "11",
         "speed_knots": "6",
-        "direction": "ESE",
-        "direction_degrees": "105"
+        "direction": "WNW",
+        "direction_degrees": "303"
       }
     },
     {
-      "local_time": "2024-05-03T22:50:00+10:00",
+      "local_time": "2024-07-17T03:40:00+10:00",
+      "description": "St Kilda Harbour RMYS",
+      "wind_gust": {
+        "speed_kmh": "9",
+        "speed_knots": "5",
+        "direction": "WNW",
+        "direction_degrees": "285"
+      },
+      "wind_speed": {
+        "speed_kmh": "7",
+        "speed_knots": "4",
+        "direction": "WNW",
+        "direction_degrees": "285"
+      }
+    },
+    {
+      "local_time": "2024-07-17T03:50:00+10:00",
+      "description": "St Kilda Harbour RMYS",
+      "wind_gust": {
+        "speed_kmh": "11",
+        "speed_knots": "6",
+        "direction": "WNW",
+        "direction_degrees": "299"
+      },
+      "wind_speed": {
+        "speed_kmh": "9",
+        "speed_knots": "5",
+        "direction": "WNW",
+        "direction_degrees": "299"
+      }
+    },
+    {
+      "local_time": "2024-07-17T04:00:00+10:00",
+      "description": "St Kilda Harbour RMYS",
+      "wind_gust": {
+        "speed_kmh": "15",
+        "speed_knots": "8",
+        "direction": "WNW",
+        "direction_degrees": "303"
+      },
+      "wind_speed": {
+        "speed_kmh": "11",
+        "speed_knots": "6",
+        "direction": "WNW",
+        "direction_degrees": "303"
+      }
+    },
+    {
+      "local_time": "2024-07-17T04:10:00+10:00",
+      "description": "St Kilda Harbour RMYS",
+      "wind_gust": {
+        "speed_kmh": "15",
+        "speed_knots": "8",
+        "direction": "NW",
+        "direction_degrees": "325"
+      },
+      "wind_speed": {
+        "speed_kmh": "13",
+        "speed_knots": "7",
+        "direction": "NW",
+        "direction_degrees": "325"
+      }
+    },
+    {
+      "local_time": "2024-07-17T04:20:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "13",
         "speed_knots": "7",
-        "direction": "E",
-        "direction_degrees": "95"
-      },
-      "wind_speed": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "E",
-        "direction_degrees": "95"
-      }
-    },
-    {
-      "local_time": "2024-05-03T23:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "19",
-        "speed_knots": "10",
-        "direction": "ESE",
-        "direction_degrees": "102"
+        "direction": "WNW",
+        "direction_degrees": "297"
       },
       "wind_speed": {
         "speed_kmh": "11",
         "speed_knots": "6",
-        "direction": "ESE",
-        "direction_degrees": "102"
+        "direction": "WNW",
+        "direction_degrees": "297"
       }
     },
     {
-      "local_time": "2024-05-03T23:10:00+10:00",
+      "local_time": "2024-07-17T04:30:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "13",
         "speed_knots": "7",
-        "direction": "E",
-        "direction_degrees": "96"
+        "direction": "NW",
+        "direction_degrees": "309"
       },
       "wind_speed": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "E",
-        "direction_degrees": "96"
+        "speed_kmh": "11",
+        "speed_knots": "6",
+        "direction": "NW",
+        "direction_degrees": "309"
       }
     },
     {
-      "local_time": "2024-05-03T23:20:00+10:00",
+      "local_time": "2024-07-17T04:40:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "11",
         "speed_knots": "6",
-        "direction": "E",
-        "direction_degrees": "80"
+        "direction": "NW",
+        "direction_degrees": "304"
       },
       "wind_speed": {
         "speed_kmh": "9",
         "speed_knots": "5",
-        "direction": "E",
-        "direction_degrees": "80"
+        "direction": "NW",
+        "direction_degrees": "304"
       }
     },
     {
-      "local_time": "2024-05-03T23:30:00+10:00",
+      "local_time": "2024-07-17T04:50:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "11",
         "speed_knots": "6",
-        "direction": "ENE",
-        "direction_degrees": "61"
+        "direction": "NW",
+        "direction_degrees": "306"
       },
       "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "ENE",
-        "direction_degrees": "61"
+        "speed_kmh": "9",
+        "speed_knots": "5",
+        "direction": "NW",
+        "direction_degrees": "306"
       }
     },
     {
-      "local_time": "2024-05-03T23:40:00+10:00",
+      "local_time": "2024-07-17T05:00:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "E",
-        "direction_degrees": "93"
+        "speed_kmh": "13",
+        "speed_knots": "7",
+        "direction": "NW",
+        "direction_degrees": "307"
       },
       "wind_speed": {
-        "speed_kmh": "2",
-        "speed_knots": "1",
-        "direction": "E",
-        "direction_degrees": "93"
+        "speed_kmh": "9",
+        "speed_knots": "5",
+        "direction": "NW",
+        "direction_degrees": "307"
       }
     },
     {
-      "local_time": "2024-05-03T23:50:00+10:00",
+      "local_time": "2024-07-17T05:10:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "9",
         "speed_knots": "5",
-        "direction": "E",
-        "direction_degrees": "84"
+        "direction": "WNW",
+        "direction_degrees": "296"
       },
       "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "E",
-        "direction_degrees": "84"
+        "speed_kmh": "7",
+        "speed_knots": "4",
+        "direction": "WNW",
+        "direction_degrees": "296"
       }
     },
     {
-      "local_time": "2024-05-04T00:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "E",
-        "direction_degrees": "95"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "E",
-        "direction_degrees": "95"
-      }
-    },
-    {
-      "local_time": "2024-05-04T00:10:00+10:00",
+      "local_time": "2024-07-17T05:20:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "7",
         "speed_knots": "4",
-        "direction": "E",
-        "direction_degrees": "91"
+        "direction": "WNW",
+        "direction_degrees": "287"
       },
       "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "E",
-        "direction_degrees": "91"
+        "speed_kmh": "7",
+        "speed_knots": "4",
+        "direction": "WNW",
+        "direction_degrees": "287"
       }
     },
     {
-      "local_time": "2024-05-04T00:20:00+10:00",
+      "local_time": "2024-07-17T05:30:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "9",
         "speed_knots": "5",
-        "direction": "ENE",
-        "direction_degrees": "72"
+        "direction": "WNW",
+        "direction_degrees": "283"
       },
       "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "ENE",
-        "direction_degrees": "72"
+        "speed_kmh": "7",
+        "speed_knots": "4",
+        "direction": "WNW",
+        "direction_degrees": "283"
       }
     },
     {
-      "local_time": "2024-05-04T00:30:00+10:00",
+      "local_time": "2024-07-17T05:40:00+10:00",
+      "description": "St Kilda Harbour RMYS",
+      "wind_gust": {
+        "speed_kmh": "9",
+        "speed_knots": "5",
+        "direction": "W",
+        "direction_degrees": "275"
+      },
+      "wind_speed": {
+        "speed_kmh": "7",
+        "speed_knots": "4",
+        "direction": "W",
+        "direction_degrees": "275"
+      }
+    },
+    {
+      "local_time": "2024-07-17T05:50:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "11",
         "speed_knots": "6",
-        "direction": "E",
-        "direction_degrees": "88"
+        "direction": "WNW",
+        "direction_degrees": "285"
       },
       "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "E",
-        "direction_degrees": "88"
+        "speed_kmh": "9",
+        "speed_knots": "5",
+        "direction": "WNW",
+        "direction_degrees": "285"
       }
     },
     {
-      "local_time": "2024-05-04T00:40:00+10:00",
+      "local_time": "2024-07-17T06:00:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "11",
         "speed_knots": "6",
-        "direction": "ENE",
-        "direction_degrees": "78"
+        "direction": "W",
+        "direction_degrees": "280"
       },
       "wind_speed": {
         "speed_kmh": "7",
         "speed_knots": "4",
-        "direction": "ENE",
-        "direction_degrees": "78"
+        "direction": "W",
+        "direction_degrees": "280"
       }
     },
     {
-      "local_time": "2024-05-04T00:50:00+10:00",
+      "local_time": "2024-07-17T06:10:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "E",
-        "direction_degrees": "91"
+        "speed_kmh": "15",
+        "speed_knots": "8",
+        "direction": "W",
+        "direction_degrees": "281"
       },
       "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "E",
-        "direction_degrees": "91"
+        "speed_kmh": "13",
+        "speed_knots": "7",
+        "direction": "W",
+        "direction_degrees": "281"
       }
     },
     {
-      "local_time": "2024-05-04T01:00:00+10:00",
+      "local_time": "2024-07-17T06:20:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "E",
-        "direction_degrees": "86"
+        "speed_kmh": "15",
+        "speed_knots": "8",
+        "direction": "W",
+        "direction_degrees": "279"
       },
       "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "E",
-        "direction_degrees": "86"
+        "speed_kmh": "13",
+        "speed_knots": "7",
+        "direction": "W",
+        "direction_degrees": "279"
       }
     },
     {
-      "local_time": "2024-05-04T01:10:00+10:00",
+      "local_time": "2024-07-17T06:30:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "ENE",
-        "direction_degrees": "77"
+        "speed_kmh": "15",
+        "speed_knots": "8",
+        "direction": "W",
+        "direction_degrees": "277"
       },
       "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "ENE",
-        "direction_degrees": "77"
+        "speed_kmh": "13",
+        "speed_knots": "7",
+        "direction": "W",
+        "direction_degrees": "277"
       }
     },
     {
-      "local_time": "2024-05-04T01:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "E",
-        "direction_degrees": "84"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "E",
-        "direction_degrees": "84"
-      }
-    },
-    {
-      "local_time": "2024-05-04T01:30:00+10:00",
+      "local_time": "2024-07-17T06:40:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "11",
         "speed_knots": "6",
-        "direction": "ENE",
-        "direction_degrees": "78"
+        "direction": "W",
+        "direction_degrees": "281"
       },
       "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "ENE",
-        "direction_degrees": "78"
+        "speed_kmh": "9",
+        "speed_knots": "5",
+        "direction": "W",
+        "direction_degrees": "281"
       }
     },
     {
-      "local_time": "2024-05-04T01:40:00+10:00",
+      "local_time": "2024-07-17T06:50:00+10:00",
+      "description": "St Kilda Harbour RMYS",
+      "wind_gust": {
+        "speed_kmh": "13",
+        "speed_knots": "7",
+        "direction": "WNW",
+        "direction_degrees": "284"
+      },
+      "wind_speed": {
+        "speed_kmh": "13",
+        "speed_knots": "7",
+        "direction": "WNW",
+        "direction_degrees": "284"
+      }
+    },
+    {
+      "local_time": "2024-07-17T07:00:00+10:00",
+      "description": "St Kilda Harbour RMYS",
+      "wind_gust": {
+        "speed_kmh": "15",
+        "speed_knots": "8",
+        "direction": "WNW",
+        "direction_degrees": "286"
+      },
+      "wind_speed": {
+        "speed_kmh": "11",
+        "speed_knots": "6",
+        "direction": "WNW",
+        "direction_degrees": "286"
+      }
+    },
+    {
+      "local_time": "2024-07-17T07:10:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
         "speed_kmh": "11",
         "speed_knots": "6",
-        "direction": "ENE",
-        "direction_degrees": "75"
+        "direction": "WNW",
+        "direction_degrees": "283"
       },
       "wind_speed": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "ENE",
-        "direction_degrees": "75"
+        "speed_kmh": "11",
+        "speed_knots": "6",
+        "direction": "WNW",
+        "direction_degrees": "283"
       }
     },
     {
-      "local_time": "2024-05-04T01:50:00+10:00",
+      "local_time": "2024-07-17T07:20:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "E",
-        "direction_degrees": "80"
+        "speed_kmh": "13",
+        "speed_knots": "7",
+        "direction": "WNW",
+        "direction_degrees": "283"
       },
       "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "E",
-        "direction_degrees": "80"
+        "speed_kmh": "13",
+        "speed_knots": "7",
+        "direction": "WNW",
+        "direction_degrees": "283"
       }
     },
     {
-      "local_time": "2024-05-04T02:00:00+10:00",
+      "local_time": "2024-07-17T07:30:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NE",
-        "direction_degrees": "48"
+        "speed_kmh": "15",
+        "speed_knots": "8",
+        "direction": "W",
+        "direction_degrees": "277"
       },
       "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NE",
-        "direction_degrees": "48"
+        "speed_kmh": "13",
+        "speed_knots": "7",
+        "direction": "W",
+        "direction_degrees": "277"
       }
     },
     {
-      "local_time": "2024-05-04T02:10:00+10:00",
+      "local_time": "2024-07-17T07:50:00+10:00",
       "description": "St Kilda Harbour RMYS",
       "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "29"
+        "speed_kmh": "11",
+        "speed_knots": "6",
+        "direction": "W",
+        "direction_degrees": "278"
       },
       "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NNE",
-        "direction_degrees": "29"
-      }
-    },
-    {
-      "local_time": "2024-05-04T02:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "ENE",
-        "direction_degrees": "65"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "ENE",
-        "direction_degrees": "65"
-      }
-    },
-    {
-      "local_time": "2024-05-04T02:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "E",
-        "direction_degrees": "85"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "E",
-        "direction_degrees": "85"
-      }
-    },
-    {
-      "local_time": "2024-05-04T02:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "ESE",
-        "direction_degrees": "105"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "ESE",
-        "direction_degrees": "105"
-      }
-    },
-    {
-      "local_time": "2024-05-04T02:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "E",
-        "direction_degrees": "95"
-      },
-      "wind_speed": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "E",
-        "direction_degrees": "95"
-      }
-    },
-    {
-      "local_time": "2024-05-04T03:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "E",
-        "direction_degrees": "79"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "E",
-        "direction_degrees": "79"
-      }
-    },
-    {
-      "local_time": "2024-05-04T03:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "E",
-        "direction_degrees": "84"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "E",
-        "direction_degrees": "84"
-      }
-    },
-    {
-      "local_time": "2024-05-04T03:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NE",
-        "direction_degrees": "41"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NE",
-        "direction_degrees": "41"
-      }
-    },
-    {
-      "local_time": "2024-05-04T03:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NE",
-        "direction_degrees": "38"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NE",
-        "direction_degrees": "38"
-      }
-    },
-    {
-      "local_time": "2024-05-04T03:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NE",
-        "direction_degrees": "56"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NE",
-        "direction_degrees": "56"
-      }
-    },
-    {
-      "local_time": "2024-05-04T03:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NE",
-        "direction_degrees": "53"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NE",
-        "direction_degrees": "53"
-      }
-    },
-    {
-      "local_time": "2024-05-04T04:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NE",
-        "direction_degrees": "48"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NE",
-        "direction_degrees": "48"
-      }
-    },
-    {
-      "local_time": "2024-05-04T04:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "26"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "26"
-      }
-    },
-    {
-      "local_time": "2024-05-04T04:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "19"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "19"
-      }
-    },
-    {
-      "local_time": "2024-05-04T04:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "31"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "31"
-      }
-    },
-    {
-      "local_time": "2024-05-04T04:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NE",
-        "direction_degrees": "42"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NE",
-        "direction_degrees": "42"
-      }
-    },
-    {
-      "local_time": "2024-05-04T04:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "N",
-        "direction_degrees": "7"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "N",
-        "direction_degrees": "7"
-      }
-    },
-    {
-      "local_time": "2024-05-04T05:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "N",
-        "direction_degrees": "10"
-      },
-      "wind_speed": {
-        "speed_kmh": "2",
-        "speed_knots": "1",
-        "direction": "N",
-        "direction_degrees": "10"
-      }
-    },
-    {
-      "local_time": "2024-05-04T05:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NNE",
-        "direction_degrees": "31"
-      },
-      "wind_speed": {
-        "speed_kmh": "2",
-        "speed_knots": "1",
-        "direction": "NNE",
-        "direction_degrees": "31"
-      }
-    },
-    {
-      "local_time": "2024-05-04T05:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "28"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NNE",
-        "direction_degrees": "28"
-      }
-    },
-    {
-      "local_time": "2024-05-04T05:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "22"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NNE",
-        "direction_degrees": "22"
-      }
-    },
-    {
-      "local_time": "2024-05-04T05:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NNE",
-        "direction_degrees": "15"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NNE",
-        "direction_degrees": "15"
-      }
-    },
-    {
-      "local_time": "2024-05-04T05:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "29"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NNE",
-        "direction_degrees": "29"
-      }
-    },
-    {
-      "local_time": "2024-05-04T06:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "24"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NNE",
-        "direction_degrees": "24"
-      }
-    },
-    {
-      "local_time": "2024-05-04T06:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "13"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "13"
-      }
-    },
-    {
-      "local_time": "2024-05-04T06:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "28"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NNE",
-        "direction_degrees": "28"
-      }
-    },
-    {
-      "local_time": "2024-05-04T06:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "20"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "20"
-      }
-    },
-    {
-      "local_time": "2024-05-04T06:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NNE",
-        "direction_degrees": "20"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NNE",
-        "direction_degrees": "20"
-      }
-    },
-    {
-      "local_time": "2024-05-04T06:50:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NE",
-        "direction_degrees": "36"
-      },
-      "wind_speed": {
-        "speed_kmh": "4",
-        "speed_knots": "2",
-        "direction": "NE",
-        "direction_degrees": "36"
-      }
-    },
-    {
-      "local_time": "2024-05-04T07:00:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NE",
-        "direction_degrees": "48"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NE",
-        "direction_degrees": "48"
-      }
-    },
-    {
-      "local_time": "2024-05-04T07:10:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NE",
-        "direction_degrees": "51"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NE",
-        "direction_degrees": "51"
-      }
-    },
-    {
-      "local_time": "2024-05-04T07:20:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "9",
-        "speed_knots": "5",
-        "direction": "NE",
-        "direction_degrees": "35"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NE",
-        "direction_degrees": "35"
-      }
-    },
-    {
-      "local_time": "2024-05-04T07:30:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "7",
-        "speed_knots": "4",
-        "direction": "NE",
-        "direction_degrees": "36"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NE",
-        "direction_degrees": "36"
-      }
-    },
-    {
-      "local_time": "2024-05-04T07:40:00+10:00",
-      "description": "St Kilda Harbour RMYS",
-      "wind_gust": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NE",
-        "direction_degrees": "51"
-      },
-      "wind_speed": {
-        "speed_kmh": "6",
-        "speed_knots": "3",
-        "direction": "NE",
-        "direction_degrees": "51"
+        "speed_kmh": "11",
+        "speed_knots": "6",
+        "direction": "W",
+        "direction_degrees": "278"
       }
     }
   ]
